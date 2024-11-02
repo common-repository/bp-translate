@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.72\n"
+"PO-Revision-Date: 2009-02-15 11:07+0900\n"
+"Last-Translator: Fumito MIZUNO <mizuno@ounziw.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+": "
+
+#: codestyling-localization.php:104
+#, fuzzy
+msgid "required"
+msgstr "必須"
+
+#: codestyling-localization.php:104
+msgid "actual"
+msgstr "実際の"
+
+#: codestyling-localization.php:243
+#, fuzzy
+msgid "You do not have permission to manage translation files."
+msgstr "翻訳ファイルを編集する権限がありません。"
+
+#: codestyling-localization.php:253
+#: codestyling-localization.php:1148
+#, fuzzy
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:259
+#: codestyling-localization.php:298
+#: codestyling-localization.php:405
+#: codestyling-localization.php:479
+#: codestyling-localization.php:1179
+#, fuzzy
+msgid "activated"
+msgstr "プラグインを<strong>使用開始</strong>しました。"
+
+#: codestyling-localization.php:277
+#: codestyling-localization.php:358
+#: codestyling-localization.php:368
+#: codestyling-localization.php:459
+#: codestyling-localization.php:499
+#: codestyling-localization.php:867
+#: codestyling-localization.php:910
+#: codestyling-localization.php:949
+#: codestyling-localization.php:1039
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "Y年m月d日 H:i:s"
+
+#: codestyling-localization.php:293
+#, fuzzy
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: codestyling-localization.php:298
+#: codestyling-localization.php:479
+#, fuzzy
+msgid "deactivated"
+msgstr "プラグインを<strong>停止</strong>しました。"
+
+#: codestyling-localization.php:400
+#, fuzzy
+msgid "μ Plugin"
+msgstr "μ プラグイン"
+
+#: codestyling-localization.php:474
+#, fuzzy
+msgid "Theme"
+msgstr "テーマの変更"
+
+#: codestyling-localization.php:653
+#: codestyling-localization.php:746
+#, fuzzy
+msgid "Project-Id-Version"
+msgstr "プロジェクトの名前とバージョン:"
+
+#: codestyling-localization.php:657
+#, fuzzy
+msgid "Creation-Date"
+msgstr "作成日時"
+
+#: codestyling-localization.php:661
+#, fuzzy
+msgid "Last-Translator"
+msgstr "最後の編集者"
+
+#: codestyling-localization.php:696
+#, fuzzy
+msgid "create po-file"
+msgstr "po ファイルの作成"
+
+#: codestyling-localization.php:707
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "\"<strong>％s</strong>\" から <strong>％s</strong> を完全に削除しようとしています。<br/>本当にこれらのファイルを削除してもよろしいですか？"
+
+#: codestyling-localization.php:708
+#, fuzzy
+msgid "delete files"
+msgstr "ファイルの削除"
+
+#: codestyling-localization.php:750
+#, fuzzy
+msgid "Language Target"
+msgstr "翻訳先の言語"
+
+#: codestyling-localization.php:755
+#, fuzzy
+msgid "Affected Total Files"
+msgstr "影響を受けるファイル数"
+
+#: codestyling-localization.php:760
+#, fuzzy
+msgid "Scanning Progress"
+msgstr "進捗中 ..."
+
+#: codestyling-localization.php:768
+#, fuzzy
+msgid "scan now"
+msgstr "スキャンする"
+
+#: codestyling-localization.php:768
+msgid "Please standby, files presently being scanned ..."
+msgstr "ファイルをスキャンしています。しばらくお待ちください。"
+
+#: codestyling-localization.php:852
+#, fuzzy, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "'%s' ファイルを作成する権限がありません。"
+
+#: codestyling-localization.php:860
+#: codestyling-localization.php:893
+#: codestyling-localization.php:1258
+#, fuzzy, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong>言語"
+
+#: codestyling-localization.php:880
+#: codestyling-localization.php:881
+#, fuzzy, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "'%s' ファイルを削除する権限がありません。"
+
+#: codestyling-localization.php:915
+#: codestyling-localization.php:999
+#: codestyling-localization.php:1032
+#, fuzzy, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "'%s' ファイルに書き込む権限がありません。"
+
+#: codestyling-localization.php:921
+#: codestyling-localization.php:1012
+#: codestyling-localization.php:1025
+#, fuzzy, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "'%s' ファイルを読み込む権限がありません。"
+
+#: codestyling-localization.php:938
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "サーバー制限: ファイルの権限を変更できません。"
+
+#: codestyling-localization.php:941
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "存在しないファイル '%s' を編集する権限がありません。"
+
+#: codestyling-localization.php:985
+msgid "Sorry, Google Translation is not available."
+msgstr "残念ながら、Google 翻訳は利用できません。"
+
+#: codestyling-localization.php:1052
+msgid "You do not have the permission to create the WordPress Language File Path.<br/>Please create the appropriated path using you FTP access."
+msgstr "WordPress 言語ファイルパスを作成する権限がありません。<br/>FTP を使用して適切なパスを作成してください。"
+
+#: codestyling-localization.php:1072
+msgid "You do not have the permission to choose the translation file directory<br/>Please upload at least on language file (*.mo|*.po) or an empty template file (*.pot) at the appropriated folder using FTP."
+msgstr "翻訳ファイルディレクトリを選択する権限がありません。<br/>FTP を使用して、言語ファイル (*.mo|*.po) あるいは空テンプレートファイル (*.pot) の少なくとも 1 つをアップロードしてください。"
+
+#: codestyling-localization.php:1129
+#, fuzzy
+msgid "WordPress Localization"
+msgstr "WordPress のローカライゼーション"
+
+#: codestyling-localization.php:1129
+msgid "Localization"
+msgstr "ローカライゼーション"
+
+#: codestyling-localization.php:1142
+#, fuzzy
+msgid "Manage Language Files"
+msgstr "展開したファイルをチェックしています…"
+
+#: codestyling-localization.php:1145
+#, fuzzy
+msgid "All Translations"
+msgstr "全翻訳"
+
+#: codestyling-localization.php:1152
+#, fuzzy
+msgid "μ Plugins"
+msgstr "μ プラグイン"
+
+#: codestyling-localization.php:1156
+#, fuzzy
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: codestyling-localization.php:1159
+#, fuzzy
+msgid "Themes"
+msgstr "テーマ"
+
+#: codestyling-localization.php:1172
+#, fuzzy
+msgid "Type"
+msgstr "種類"
+
+#: codestyling-localization.php:1173
+#: codestyling-localization.php:1200
+#: codestyling-localization.php:1222
+#, fuzzy
+msgid "Description"
+msgstr "説明"
+
+#: codestyling-localization.php:1174
+#, fuzzy
+msgid "Languages"
+msgstr "言語"
+
+#: codestyling-localization.php:1185
+msgid "Textdomain"
+msgstr "テキストドメイン"
+
+#: codestyling-localization.php:1186
+#, fuzzy
+msgid "defined by constant"
+msgstr "定数で定義"
+
+#: codestyling-localization.php:1192
+#: codestyling-localization.php:1214
+#, fuzzy
+msgid "Version"
+msgstr "バージョン"
+
+#: codestyling-localization.php:1196
+#: codestyling-localization.php:1218
+#, fuzzy
+msgid "State"
+msgstr "状態"
+
+#: codestyling-localization.php:1205
+msgid "<strong>ATTENTION</strong>: The path of translation files is ambiguous, please select the language file folder!"
+msgstr "<strong>注意</strong>: 翻訳ファイルのパスが曖昧です。言語ファイルのフォルダを選択してください。"
+
+#: codestyling-localization.php:1211
+#, fuzzy
+msgid "by"
+msgstr "作者"
+
+#: codestyling-localization.php:1231
+msgid "The original US version doesn't contain the language directory."
+msgstr "オリジナル英語版には、言語ディレクトリが含まれていません。"
+
+#: codestyling-localization.php:1233
+msgid "try to create the WordPress language directory"
+msgstr "WordPress 言語ディレクトリを作成する"
+
+#: codestyling-localization.php:1236
+msgid "or create the missing directory using FTP Access as:"
+msgstr "FTP を使用してディレクトリを作成する"
+
+#: codestyling-localization.php:1241
+#, fuzzy
+msgid "Available Directories:"
+msgstr "利用可能なディレクトリ"
+
+#: codestyling-localization.php:1256
+#: codestyling-localization.php:1439
+#, fuzzy
+msgid "Add New Language"
+msgstr "新規言語を追加する"
+
+#: codestyling-localization.php:1261
+#, fuzzy
+msgid "Language"
+msgstr "言語:"
+
+#: codestyling-localization.php:1262
+#, fuzzy
+msgid "Permissions"
+msgstr "ファイルのアクセス権"
+
+#: codestyling-localization.php:1263
+#: codestyling-localization.php:1378
+#, fuzzy
+msgid "Actions"
+msgstr "操作"
+
+#: codestyling-localization.php:1272
+#: codestyling-localization.php:1473
+msgid "Locale"
+msgstr "地域"
+
+#: codestyling-localization.php:1278
+#: codestyling-localization.php:1283
+#: codestyling-localization.php:1481
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1288
+#: codestyling-localization.php:1485
+#: codestyling-localization.php:1796
+#, fuzzy
+msgid "Edit"
+msgstr "編集"
+
+#: codestyling-localization.php:1290
+#: codestyling-localization.php:1487
+msgid "Rescan"
+msgstr "再スキャン"
+
+#: codestyling-localization.php:1292
+#: codestyling-localization.php:1489
+#, fuzzy
+msgid "Delete"
+msgstr "削除 "
+
+#: codestyling-localization.php:1306
+#, fuzzy
+msgid "Translate Language File"
+msgstr "言語ファイルを翻訳する"
+
+#: codestyling-localization.php:1306
+msgid "back to main page &raquo;"
+msgstr "メインページに戻る &raquo;"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1639
+#: codestyling-localization.php:2134
+#, fuzzy
+msgid "File:"
+msgstr "ファイル"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1320
+#: includes/class-translationfile.php:438
+#, fuzzy
+msgid "unknown"
+msgstr "不明"
+
+#: codestyling-localization.php:1311
+#, fuzzy
+msgid "Full Catalog"
+msgstr "全カタログ"
+
+#: codestyling-localization.php:1312
+#, fuzzy
+msgid "Plural Forms"
+msgstr "複数形: "
+
+#: codestyling-localization.php:1313
+#, fuzzy
+msgid "No Translation"
+msgstr "翻訳無"
+
+#: codestyling-localization.php:1314
+#, fuzzy
+msgid "With Comment"
+msgstr "コメント有り"
+
+#: codestyling-localization.php:1315
+#, fuzzy
+msgid "Search Result"
+msgstr "検索結果"
+
+#: codestyling-localization.php:1316
+msgid "Expression Result"
+msgstr "正規表現検索結果"
+
+#: codestyling-localization.php:1319
+#, fuzzy
+msgid "generate mo-file"
+msgstr "mo ファイルを生成する"
+
+#: codestyling-localization.php:1320
+#, fuzzy
+msgid "last file generation at:"
+msgstr "最終更新"
+
+#: codestyling-localization.php:1322
+#, fuzzy
+msgid "Page Size"
+msgstr "ページサイズ"
+
+#: codestyling-localization.php:1334
+#: codestyling-localization.php:1756
+#, fuzzy
+msgid "&laquo; Previous"
+msgstr "&laquo; 前ページへ"
+
+#: codestyling-localization.php:1339
+#: codestyling-localization.php:1763
+#, fuzzy
+msgid "Next &raquo;"
+msgstr "次ページへ &raquo;"
+
+#: codestyling-localization.php:1347
+msgid "Infos"
+msgstr "情報"
+
+#: codestyling-localization.php:1351
+#: codestyling-localization.php:2099
+#, fuzzy
+msgid "Original:"
+msgstr "原文"
+
+#: codestyling-localization.php:1355
+#: codestyling-localization.php:1370
+#, fuzzy
+msgid "non case-sensitive"
+msgstr "大文字小文字を区別しない"
+
+#: codestyling-localization.php:1366
+#: codestyling-localization.php:2102
+#: codestyling-localization.php:2104
+#, fuzzy
+msgid "Translation:"
+msgstr "訳文"
+
+#: codestyling-localization.php:1382
+msgid "Please wait, file content presently being loaded ..."
+msgstr "ファイル内容を読み込み中です。しばらくお待ちください。"
+
+#: codestyling-localization.php:1390
+#: codestyling-localization.php:2063
+#, fuzzy
+msgid "Edit Catalog Entry"
+msgstr "カタログエントリを編集する"
+
+#: codestyling-localization.php:1391
+#, fuzzy
+msgid "close"
+msgstr "閉じる"
+
+#: codestyling-localization.php:1524
+#, fuzzy
+msgid "Confirm Delete Language"
+msgstr "言語の削除の確認"
+
+#: codestyling-localization.php:1589
+msgid "Rescanning PHP Source Files"
+msgstr "PHP ソースファイルを再スキャンしています"
+
+#: codestyling-localization.php:1614
+#: codestyling-localization.php:1644
+#, fuzzy
+msgid "finished"
+msgstr "完了"
+
+#: codestyling-localization.php:1694
+#, fuzzy
+msgid "Access Error"
+msgstr "アクセスエラー"
+
+#: codestyling-localization.php:1771
+#, fuzzy
+msgid "Comment:"
+msgstr "コメント: "
+
+#: codestyling-localization.php:1773
+#, fuzzy
+msgid "Files:"
+msgstr "ファイル: "
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2087
+#, fuzzy
+msgid "Singular:"
+msgstr "単数形: "
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2089
+#, fuzzy
+msgid "Plural:"
+msgstr "複数形: "
+
+#: codestyling-localization.php:1785
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2076
+#: codestyling-localization.php:2081
+#, fuzzy
+msgid "Plural Index Result ="
+msgstr "複数形インデックスの結果 ="
+
+#: codestyling-localization.php:1797
+#, fuzzy
+msgid "Copy"
+msgstr "原文をコピー"
+
+#: codestyling-localization.php:1913
+#, fuzzy
+msgid "Extended Expression Search"
+msgstr "拡張表現検索"
+
+#: codestyling-localization.php:1915
+msgid "Expression:"
+msgstr "正規表現"
+
+#: codestyling-localization.php:1917
+msgid "Examples: <small>Please refer to official Perl regular expression descriptions</small>"
+msgstr "例: <small>Perl 正規表現の公式解説を参照してください</small>"
+
+#: codestyling-localization.php:1922
+#, fuzzy
+msgid "Search"
+msgstr "検索"
+
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2104
+msgid "translate with Google API"
+msgstr "Google API を利用して翻訳する"
+
+#: codestyling-localization.php:2091
+#, fuzzy
+msgid "Plural Index Calculation:"
+msgstr "複数形インデックスの計算"
+
+#: codestyling-localization.php:2094
+#: codestyling-localization.php:2108
+#, fuzzy
+msgid "Save"
+msgstr "保存"
+
+#: includes/js-help-perlreg.php:4
+msgid "Component|pcre"
+msgstr "コンポーネント|pcre"
+
+#: includes/js-help-perlreg.php:5
+#, fuzzy
+msgid "Example|pcre"
+msgstr "例|pcre"
+
+#: includes/js-help-perlreg.php:6
+#, fuzzy
+msgid "Description|pcre"
+msgstr "説明|pcre"
+
+#: includes/js-help-perlreg.php:12
+#: includes/js-help-perlreg.php:17
+#: includes/js-help-perlreg.php:22
+#: includes/js-help-perlreg.php:27
+#: includes/js-help-perlreg.php:32
+#: includes/js-help-perlreg.php:37
+#: includes/js-help-perlreg.php:42
+#: includes/js-help-perlreg.php:47
+#: includes/js-help-perlreg.php:52
+#: includes/js-help-perlreg.php:112
+#: includes/js-help-perlreg.php:117
+#: includes/js-help-perlreg.php:122
+#: includes/js-help-perlreg.php:127
+#, fuzzy
+msgid "out|pcre"
+msgstr "out|pcre"
+
+#: includes/js-help-perlreg.php:13
+msgid "matches \"out\", but also \"timeout\", \"outbreak\", \"Route\" and \"gouty\".|pcre"
+msgstr "\"out\" にマッチします。しかし \"timeout\", \"outbreak\", \"Route\" \"gouty\" 等にもマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:18
+msgid "matches \"out\" at start of string like \"out\", \"outbreak\", as long as this are the first words at string.|pcre"
+msgstr "\"out\" のように \"out\" で始まる文字列にマッチします。\"outbreak\" にもマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:23
+msgid "matches \"out\" at end of string like \"out\", \"timeout\" and \"burnout\" as long as this are the last words at string.|pcre"
+msgstr "\"out\" のように \"out\" で終わる文字列にマッチします。\"timeout\" や \"burnout\" にもマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:28
+msgid "matches \"ou\", \"out\", \"outt\" and \"outttttt\", the char prior to asterisk can be repeated 0 to unlimited times.|pcre"
+msgstr "\"ou\", \"out\", \"outt\", \"outttttt\" にマッチします。アスタリスクの前の文字は 0 回以上の繰り返しです。|pcre"
+
+#: includes/js-help-perlreg.php:33
+msgid "matches \"outt\" and \"outttt\", the char prior to plus char have to be repeated at least one time or more often.|pcre"
+msgstr "\"outt\" と \"outttt\" にマッチします。プラスの前の文字は 1 回以上の繰り返しです。|pcre"
+
+#: includes/js-help-perlreg.php:38
+msgid "matches \"rout\" and \"gout\", any char can be placed at this position.|pcre"
+msgstr "\"rout\" と \"gout\" にマッチします。この位置には任意の 1 文字が入ります。|pcre"
+
+#: includes/js-help-perlreg.php:43
+msgid "matches \"timeout\" and \"Fallout\", any char sequence at this position. Is a combination of any char and 1 but upto many times.|pcre"
+msgstr "\"timeout\" と \"Fallout\" にマッチします。この位置には任意の文字列が入ります。任意の文字と 1 回以上の繰り返しを組み合わせたものです。|pcre"
+
+#: includes/js-help-perlreg.php:48
+msgid "matches \"out\" as single word. \b means word break.|pcre"
+msgstr "独立した単語 \"out\" にマッチします。バックスラッシュb は「単語の境界」を意味します。|pcre"
+
+#: includes/js-help-perlreg.php:53
+msgid "matches \"out\" only inside words, like \"Route\" or \"gouty\". \B means not word break.|pcre"
+msgstr " \"Route\" や \"gouty\" のように、\"out\" を含む単語にマッチします。バックスラッシュB は「単語の境界でない」を意味します。|pcre"
+
+#: includes/js-help-perlreg.php:58
+msgid "matches any number. \d means a numerical digit (0 to 9)|pcre"
+msgstr "任意の文字にマッチします。バックスラッシュd は「数字 (0 から 9)」を意味します。|pcre"
+
+#: includes/js-help-perlreg.php:63
+msgid "matches \"-out\" at \"3-out\", any non number.|pcre"
+msgstr "\"3-out\" の \"-out\" 部にマッチします。「数字以外の文字」を意味します。|pcre"
+
+#: includes/js-help-perlreg.php:68
+msgid "matches form feed char.|pcre"
+msgstr "フォームフィード制御文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:73
+msgid "matches line feed char.|pcre"
+msgstr "ラインフィード制御文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:78
+msgid "matches carriage return char.|pcre"
+msgstr "キャリッジリターン制御文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:83
+msgid "matches tabulator char.|pcre"
+msgstr "タブ制御文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:88
+msgid "matches vertical tabulator char.|pcre"
+msgstr "バーティカルタブ制御文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:93
+msgid ""
+"matches any kind of whitespace like \f, \\n"
+", \t, \v and space char.|pcre"
+msgstr "全ての空白、フォームフィードとラインフィードとタブとバーティカルタブと空白文字、にマッチします。"
+
+#: includes/js-help-perlreg.php:98
+msgid "matches any char, that is not a whitespace char.|pcre"
+msgstr "空白以外の任意の文字にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:103
+msgid "matches any alphanumerical char and underscore (typical for programming syntax).|pcre"
+msgstr "任意の英数字とアンダースコア (プログラム言語の構文で良く利用します) にマッチします。|pcre"
+
+#: includes/js-help-perlreg.php:108
+msgid "matches any char, that is not alphanumerical char and underscore (typical for illegal char detection at programming).|pcre"
+msgstr "英数字およびアンダースコアを除く任意の文字にマッチします (プログラムの違反チェックによく利用します)。|pcre"
+
+#: includes/js-help-perlreg.php:113
+msgid "matches \"out\" and remembers matches internally. Upto 9 brackets are allowed per expression.|pcre"
+msgstr "\"out\" にマッチし、結果を記憶します。正規表現ごとに最大 9 つまで利用できます。|pcre"
+
+#: includes/js-help-perlreg.php:118
+msgid "matches \"aus\" as often it is contained at string. The match positions will be stored internally as array.|pcre"
+msgstr "文字列に含まれる全ての \"out\" にマッチします。マッチした位置は配列で記憶されます。|pcre"
+
+#: includes/js-help-perlreg.php:123
+msgid "matches \"out\", \"Out\" and \"OUT\", not case-sensitive match.|pcre"
+msgstr "\"out\", \"Out\", \"OUT\" にマッチします。大文字小文字を区別しません。|pcre"
+
+#: includes/js-help-perlreg.php:128
+msgid "matches \"out\", as ofter occurs (g) and also non case-sensitive.|pcre"
+msgstr "大文字小文字を区別しないで、\"out\" に繰り返しマッチします。|pcre"
+

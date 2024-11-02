@@ -1,0 +1,119 @@
+#bpt-langswitcher-first {
+	border-color: #c0c0c0;
+	background: #f1f1f1; /* fallback color */
+	background:-moz-linear-gradient(bottom,  #e7e7e7,  #fff);
+	background:-webkit-gradient(linear, left bottom, left top, from(#e7e7e7), to(#fff));
+}
+
+#bpt-langswitcher-inside {
+	border-color: #c0c0c0;
+	background-color: #fff;
+}
+
+#bpt-langswitcher-toggle {
+	background: transparent url(../../../../../../wp-admin/images/fav-arrow.gif?ver=20100531) no-repeat 0 -4px;
+}
+
+#bpt-langswitcher-actions a {
+	color: #464646;
+}
+
+#bpt-langswitcher-actions a:hover {
+	color: #000;
+}
+
+#bpt-langswitcher-inside a:hover {
+	text-decoration: underline;
+}
+
+#bpt-langswitcher-actions {
+	float: right;
+	margin: 11px 12px 0;
+	min-width: 130px;
+	position: relative;
+}
+
+#bpt-langswitcher-first {
+	-moz-border-radius: 12px;
+	-khtml-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	line-height: 15px;
+	padding: 3px 30px 4px 12px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#bpt-langswitcher-inside {
+	margin: 0 0 0 0px;
+	padding: 2px 1px;
+	width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	position: absolute;
+	z-index: 11;
+	display: none;
+	-moz-border-radius: 0 0 12px 12px;
+	-webkit-border-bottom-right-radius: 12px;
+	-webkit-border-bottom-left-radius: 12px;
+	-khtml-border-bottom-right-radius: 12px;
+	-khtml-border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	border-bottom-left-radius: 12px;
+}
+
+#bpt-langswitcher-actions span {
+	cursor: default;
+}
+#bpt-langswitcher-actions span,
+#bpt-langswitcher-actions a {
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+#bpt-langswitcher-inside a {
+	padding: 3px 5px 3px 10px;
+}
+
+#bpt-langswitcher-toggle {
+	height: 22px;
+	position: absolute;
+	right: 0;
+	top: 1px;
+	width: 28px;
+}
+
+#bpt-langswitcher-first.slide-down {
+	-moz-border-radius: 12px 12px 0 0;
+	-webkit-border-bottom-right-radius: 0;
+	-webkit-border-bottom-left-radius: 0;
+	-khtml-border-bottom-right-radius: 0;
+	-khtml-border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+	border-bottom: none;
+}
+
+#bpt-langswitcher-toggle {
+	background: transparent url(../../../../../../wp-admin/images/fav-arrow.gif) no-repeat 0 -4px;
+}
+
+#bpt-langswitcher-actions a {
+	color: #464646;
+}
+
+#bpt-langswitcher-actions a:hover {
+	color: #000;
+}
+
+.bpt-langoption { 
+	display: block;
+	text-decoration: none !important;
+	color: #ddd;
+	padding: 0px 0px 0px 0px;
+	margin-bottom: 6px;
+}
+.lang-installed { 
+	background-color: #E7F7D3 !important;
+}

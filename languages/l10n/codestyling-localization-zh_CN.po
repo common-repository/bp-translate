@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.55\n"
+"PO-Revision-Date: 2008-10-26 21:27+0800\n"
+"Last-Translator: Dreamcolor <dreamcolor@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"POT-Creation-Date: \n"
+"Language-Team: WordPress 中文团队 <feedback@wpcng.com>\n"
+
+#: codestyling-localization.php:145
+msgid "required"
+msgstr "需要"
+
+#: codestyling-localization.php:145
+msgid "actual"
+msgstr "目前"
+
+#: codestyling-localization.php:265
+msgid "You do not have permission to manage translation files."
+msgstr "您无权管理翻译文件。"
+
+#: codestyling-localization.php:273
+#: codestyling-localization.php:969
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:278
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+#: codestyling-localization.php:994
+msgid "activated"
+msgstr "已启用"
+
+#: codestyling-localization.php:292
+#: codestyling-localization.php:371
+#: codestyling-localization.php:381
+#: codestyling-localization.php:426
+#: codestyling-localization.php:734
+#: codestyling-localization.php:777
+#: codestyling-localization.php:816
+#: codestyling-localization.php:906
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "Y-m-d H:i:s"
+
+#: codestyling-localization.php:307
+msgid "Plugin"
+msgstr "插件"
+
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+msgid "deactivated"
+msgstr "已禁用"
+
+#: codestyling-localization.php:402
+msgid "Theme"
+msgstr "外观"
+
+#: codestyling-localization.php:520
+#: codestyling-localization.php:613
+msgid "Project-Id-Version"
+msgstr "项目-ID-版本"
+
+#: codestyling-localization.php:524
+msgid "Creation-Date"
+msgstr "创建日期"
+
+#: codestyling-localization.php:528
+msgid "Last-Translator"
+msgstr "最后翻译人"
+
+#: codestyling-localization.php:563
+msgid "create po-file"
+msgstr "创建 PO 文件"
+
+#: codestyling-localization.php:574
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "您将删除 <strong>%s</strong> 位于 \"<strong>%s</strong>\" 中的语言包。<br/>您确认想删除这些文件吗？"
+
+#: codestyling-localization.php:575
+msgid "delete files"
+msgstr "删除文件"
+
+#: codestyling-localization.php:617
+msgid "Language Target"
+msgstr "目标语言"
+
+#: codestyling-localization.php:622
+msgid "Affected Total Files"
+msgstr "总关联文件"
+
+#: codestyling-localization.php:627
+msgid "Scanning Progress"
+msgstr "扫描进度"
+
+#: codestyling-localization.php:635
+msgid "scan now"
+msgstr "现在扫描"
+
+#: codestyling-localization.php:635
+msgid "Please standby, files presently being scanned ..."
+msgstr "请稍等，文件将很快扫描完毕……"
+
+#: codestyling-localization.php:719
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "您无权创建文件 '%s'。"
+
+#: codestyling-localization.php:727
+#: codestyling-localization.php:760
+#: codestyling-localization.php:1046
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong> 种语言"
+
+#: codestyling-localization.php:747
+#: codestyling-localization.php:748
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "您无权删除文件 '%s'。"
+
+#: codestyling-localization.php:782
+#: codestyling-localization.php:866
+#: codestyling-localization.php:899
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "您无权写入文件 '%s'。"
+
+#: codestyling-localization.php:788
+#: codestyling-localization.php:879
+#: codestyling-localization.php:892
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "您无权读取文件 '%s'。"
+
+#: codestyling-localization.php:805
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "服务器限制：不允许更改文件。"
+
+#: codestyling-localization.php:808
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "当文件 '%s' 不存在时，您无权修改该文件。"
+
+#: codestyling-localization.php:852
+msgid "Sorry, Google Translation is not available."
+msgstr "抱歉，Google 翻译不可用。"
+
+#: codestyling-localization.php:926
+msgid "WordPress Localization"
+msgstr "WordPress 本地化"
+
+#: codestyling-localization.php:926
+msgid "Localization"
+msgstr "Localization"
+
+#: codestyling-localization.php:963
+msgid "Manage Language Files"
+msgstr "管理语言文件"
+
+#: codestyling-localization.php:966
+msgid "All Translations"
+msgstr "所有翻译"
+
+#: codestyling-localization.php:972
+msgid "Plugins"
+msgstr "插件"
+
+#: codestyling-localization.php:975
+msgid "Themes"
+msgstr "外观"
+
+#: codestyling-localization.php:987
+msgid "Type"
+msgstr "类型"
+
+#: codestyling-localization.php:988
+#: codestyling-localization.php:1015
+#: codestyling-localization.php:1032
+msgid "Description"
+msgstr "描述"
+
+#: codestyling-localization.php:989
+msgid "Languages"
+msgstr "语言"
+
+#: codestyling-localization.php:1000
+msgid "Textdomain"
+msgstr "文本域"
+
+#: codestyling-localization.php:1001
+msgid "defined by constant"
+msgstr "由常量定义"
+
+#: codestyling-localization.php:1007
+#: codestyling-localization.php:1024
+msgid "Version"
+msgstr "版本"
+
+#: codestyling-localization.php:1011
+#: codestyling-localization.php:1028
+msgid "State"
+msgstr "状态"
+
+#: codestyling-localization.php:1021
+msgid "by"
+msgstr "作者"
+
+#: codestyling-localization.php:1044
+#: codestyling-localization.php:1204
+msgid "Add New Language"
+msgstr "添加新语言"
+
+#: codestyling-localization.php:1049
+msgid "Language"
+msgstr "语言"
+
+#: codestyling-localization.php:1050
+msgid "Permissions"
+msgstr "权限"
+
+#: codestyling-localization.php:1051
+#: codestyling-localization.php:1143
+msgid "Actions"
+msgstr "操作"
+
+#: codestyling-localization.php:1060
+#: codestyling-localization.php:1238
+msgid "Locale"
+msgstr "地址"
+
+#: codestyling-localization.php:1066
+#: codestyling-localization.php:1071
+#: codestyling-localization.php:1246
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1076
+#: codestyling-localization.php:1250
+#: codestyling-localization.php:1559
+msgid "Edit"
+msgstr "编辑"
+
+#: codestyling-localization.php:1078
+#: codestyling-localization.php:1252
+msgid "Rescan"
+msgstr "重新扫描"
+
+#: codestyling-localization.php:1080
+#: codestyling-localization.php:1254
+msgid "Delete"
+msgstr "删除"
+
+#: codestyling-localization.php:1092
+msgid "Translate Language File"
+msgstr "翻译语言文件"
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1404
+#: codestyling-localization.php:1842
+msgid "File:"
+msgstr "文件："
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1105
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "未知"
+
+#: codestyling-localization.php:1097
+msgid "Full Catalog"
+msgstr "所有条目"
+
+#: codestyling-localization.php:1098
+msgid "Plural Forms"
+msgstr "复数表单"
+
+#: codestyling-localization.php:1099
+msgid "No Translation"
+msgstr "未翻译"
+
+#: codestyling-localization.php:1100
+msgid "With Comment"
+msgstr "拥有注释"
+
+#: codestyling-localization.php:1101
+msgid "Search Result"
+msgstr "搜索结果"
+
+#: codestyling-localization.php:1104
+msgid "generate mo-file"
+msgstr "创建 MO 文件"
+
+#: codestyling-localization.php:1105
+msgid "last file generation at:"
+msgstr "文件最后创建于："
+
+#: codestyling-localization.php:1107
+msgid "Page Size"
+msgstr "每页显示条目数"
+
+#: codestyling-localization.php:1119
+#: codestyling-localization.php:1519
+msgid "&laquo; Previous"
+msgstr "&laquo; 前一页"
+
+#: codestyling-localization.php:1124
+#: codestyling-localization.php:1526
+msgid "Next &raquo;"
+msgstr "后一页 &raquo;"
+
+#: codestyling-localization.php:1132
+msgid "Infos"
+msgstr "信息"
+
+#: codestyling-localization.php:1134
+#: codestyling-localization.php:1807
+msgid "Original:"
+msgstr "原文："
+
+#: codestyling-localization.php:1139
+#: codestyling-localization.php:1810
+#: codestyling-localization.php:1812
+msgid "Translation:"
+msgstr "译文："
+
+#: codestyling-localization.php:1147
+msgid "Please wait, file content presently being loaded ..."
+msgstr "请稍等，文件内容将很快读取完毕……"
+
+#: codestyling-localization.php:1155
+#: codestyling-localization.php:1771
+msgid "Edit Catalog Entry"
+msgstr "编辑条目内容"
+
+#: codestyling-localization.php:1156
+msgid "close"
+msgstr "关闭"
+
+#: codestyling-localization.php:1289
+msgid "Confirm Delete Language"
+msgstr "确认删除语言"
+
+#: codestyling-localization.php:1354
+msgid "Rescanning PHP Source Files"
+msgstr "正在重新扫描 PHP 源文件"
+
+#: codestyling-localization.php:1379
+#: codestyling-localization.php:1409
+msgid "finished"
+msgstr "已完成"
+
+#: codestyling-localization.php:1457
+msgid "Access Error"
+msgstr "访问错误"
+
+#: codestyling-localization.php:1534
+msgid "Comment:"
+msgstr "注释："
+
+#: codestyling-localization.php:1536
+msgid "Files:"
+msgstr "文件："
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1795
+msgid "Singular:"
+msgstr "单数："
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1797
+msgid "Plural:"
+msgstr "复数："
+
+#: codestyling-localization.php:1548
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1784
+#: codestyling-localization.php:1789
+msgid "Plural Index Result ="
+msgstr "复数索引结果="
+
+#: codestyling-localization.php:1560
+msgid "Copy"
+msgstr "复制"
+
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1812
+msgid "translate with Google API"
+msgstr "使用 Google API 进行翻译"
+
+#: codestyling-localization.php:1799
+msgid "Plural Index Calculation:"
+msgstr "复数索引预测："
+
+#: codestyling-localization.php:1802
+#: codestyling-localization.php:1816
+msgid "Save"
+msgstr "保存"
+

@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.72\n"
+"PO-Revision-Date: 2009-02-05 10:32+0100\n"
+"Last-Translator: admin <jklimosz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: codestyling-localization.php:104
+msgid "required"
+msgstr "požadovaný"
+
+#: codestyling-localization.php:104
+msgid "actual"
+msgstr "aktuální"
+
+#: codestyling-localization.php:243
+msgid "You do not have permission to manage translation files."
+msgstr "Nemáte oprávnění ke správě souborů překladů."
+
+#: codestyling-localization.php:253
+#: codestyling-localization.php:1148
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:259
+#: codestyling-localization.php:298
+#: codestyling-localization.php:405
+#: codestyling-localization.php:479
+#: codestyling-localization.php:1179
+msgid "activated"
+msgstr "aktivovaný"
+
+#: codestyling-localization.php:277
+#: codestyling-localization.php:358
+#: codestyling-localization.php:368
+#: codestyling-localization.php:459
+#: codestyling-localization.php:499
+#: codestyling-localization.php:867
+#: codestyling-localization.php:910
+#: codestyling-localization.php:949
+#: codestyling-localization.php:1039
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "j. n. Y - G:i:s"
+
+#: codestyling-localization.php:293
+msgid "Plugin"
+msgstr "Plugin"
+
+#: codestyling-localization.php:298
+#: codestyling-localization.php:479
+msgid "deactivated"
+msgstr "deaktivovaný"
+
+#: codestyling-localization.php:400
+msgid "μ Plugin"
+msgstr "μ plugin"
+
+#: codestyling-localization.php:474
+msgid "Theme"
+msgstr "Vzhled"
+
+#: codestyling-localization.php:653
+#: codestyling-localization.php:746
+msgid "Project-Id-Version"
+msgstr "Project-Id-Version"
+
+#: codestyling-localization.php:657
+msgid "Creation-Date"
+msgstr "Creation-Date"
+
+#: codestyling-localization.php:661
+msgid "Last-Translator"
+msgstr "Last-Translator"
+
+#: codestyling-localization.php:696
+msgid "create po-file"
+msgstr "vytvořit PO"
+
+#: codestyling-localization.php:707
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "Chcete natrvalo vymazat <strong>%s</strong> z \"<strong>%s</strong>\".<br/>Jste si naprosto jisti?"
+
+#: codestyling-localization.php:708
+msgid "delete files"
+msgstr "vymazat soubory"
+
+#: codestyling-localization.php:750
+msgid "Language Target"
+msgstr "Cílový jazyk"
+
+#: codestyling-localization.php:755
+msgid "Affected Total Files"
+msgstr "Celkem ovlivněno souborů"
+
+#: codestyling-localization.php:760
+msgid "Scanning Progress"
+msgstr "Průběh skenování"
+
+#: codestyling-localization.php:768
+msgid "scan now"
+msgstr "skenovat"
+
+#: codestyling-localization.php:768
+msgid "Please standby, files presently being scanned ..."
+msgstr "Čekejte, soubory jsou skenovány..."
+
+#: codestyling-localization.php:852
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "Nemáte oprávnění vytvořit soubor '%s'."
+
+#: codestyling-localization.php:860
+#: codestyling-localization.php:893
+#: codestyling-localization.php:1258
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong> jazyk"
+msgstr[1] "<strong>%d</strong> jazyky"
+msgstr[2] "<strong>%d</strong> jazyků"
+
+#: codestyling-localization.php:880
+#: codestyling-localization.php:881
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "Nemáte oprávnění vymazat soubor '%s'."
+
+#: codestyling-localization.php:915
+#: codestyling-localization.php:999
+#: codestyling-localization.php:1032
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "Nemáte oprávnění zapisovat do souboru '%s'."
+
+#: codestyling-localization.php:921
+#: codestyling-localization.php:1012
+#: codestyling-localization.php:1025
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "Nemáte oprávnění číst ze souboru '%s'."
+
+#: codestyling-localization.php:938
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "Omezení serveru: Změna práv souborů není povolena."
+
+#: codestyling-localization.php:941
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "Nemáte oprávnění měnit práva neexistujícího souboru '%s'."
+
+#: codestyling-localization.php:985
+msgid "Sorry, Google Translation is not available."
+msgstr "Překladač Google není k dispozici."
+
+#: codestyling-localization.php:1052
+msgid "You do not have the permission to create the WordPress Language File Path.<br/>Please create the appropriated path using you FTP access."
+msgstr "Nemáte oprávnění k vytvoření cesty pro jazykový soubor.<br />K vytvoření cesty použijte FTP přístup."
+
+#: codestyling-localization.php:1072
+msgid "You do not have the permission to choose the translation file directory<br/>Please upload at least on language file (*.mo|*.po) or an empty template file (*.pot) at the appropriated folder using FTP."
+msgstr "Nemáte oprávnění k výběru cesty k adresáři jazykových souborů.<br />Nahrajte některý jazykový soubor (*.mo|*.po) nebo prázdnou šablonu (*.pot) do příslušného adresáře s použitím FTP."
+
+#: codestyling-localization.php:1129
+msgid "WordPress Localization"
+msgstr "Lokalizace WordPressu"
+
+#: codestyling-localization.php:1129
+msgid "Localization"
+msgstr "Lokalizace"
+
+#: codestyling-localization.php:1142
+msgid "Manage Language Files"
+msgstr "Správa jazykových souborů"
+
+#: codestyling-localization.php:1145
+msgid "All Translations"
+msgstr "Všechny překlady"
+
+#: codestyling-localization.php:1152
+msgid "μ Plugins"
+msgstr "μ pluginy"
+
+#: codestyling-localization.php:1156
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: codestyling-localization.php:1159
+msgid "Themes"
+msgstr "Vzhledy"
+
+#: codestyling-localization.php:1172
+msgid "Type"
+msgstr "Typ"
+
+#: codestyling-localization.php:1173
+#: codestyling-localization.php:1200
+#: codestyling-localization.php:1222
+msgid "Description"
+msgstr "Popis"
+
+#: codestyling-localization.php:1174
+msgid "Languages"
+msgstr "Jazyky"
+
+#: codestyling-localization.php:1185
+msgid "Textdomain"
+msgstr "Textová doména"
+
+#: codestyling-localization.php:1186
+msgid "defined by constant"
+msgstr "definovaný podle konstanty"
+
+#: codestyling-localization.php:1192
+#: codestyling-localization.php:1214
+msgid "Version"
+msgstr "Verze"
+
+#: codestyling-localization.php:1196
+#: codestyling-localization.php:1218
+msgid "State"
+msgstr "Stav"
+
+#: codestyling-localization.php:1205
+msgid "<strong>ATTENTION</strong>: The path of translation files is ambiguous, please select the language file folder!"
+msgstr "<strong>POZOR:</strong> Cesta k jazykovým souborům je nejednoznačná, vyberte jazykový adresář!"
+
+#: codestyling-localization.php:1211
+msgid "by"
+msgstr "podle"
+
+#: codestyling-localization.php:1231
+msgid "The original US version doesn't contain the language directory."
+msgstr "Originální US verze nepoužívá jazykový adresář."
+
+#: codestyling-localization.php:1233
+msgid "try to create the WordPress language directory"
+msgstr "zkusit vytvořit jazykový adresář"
+
+#: codestyling-localization.php:1236
+msgid "or create the missing directory using FTP Access as:"
+msgstr "nebo vytvořit chybějící adresář s použitím FTP přístupu jako:"
+
+#: codestyling-localization.php:1241
+msgid "Available Directories:"
+msgstr "Adresáře k dispozici:"
+
+#: codestyling-localization.php:1256
+#: codestyling-localization.php:1439
+msgid "Add New Language"
+msgstr "Přidat nový jazyk"
+
+#: codestyling-localization.php:1261
+msgid "Language"
+msgstr "Jazyk"
+
+#: codestyling-localization.php:1262
+msgid "Permissions"
+msgstr "Oprávnění"
+
+#: codestyling-localization.php:1263
+#: codestyling-localization.php:1378
+msgid "Actions"
+msgstr "Akce"
+
+#: codestyling-localization.php:1272
+#: codestyling-localization.php:1473
+msgid "Locale"
+msgstr "Locale"
+
+#: codestyling-localization.php:1278
+#: codestyling-localization.php:1283
+#: codestyling-localization.php:1481
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1288
+#: codestyling-localization.php:1485
+#: codestyling-localization.php:1796
+msgid "Edit"
+msgstr "Editovat"
+
+#: codestyling-localization.php:1290
+#: codestyling-localization.php:1487
+msgid "Rescan"
+msgstr "Skenovat"
+
+#: codestyling-localization.php:1292
+#: codestyling-localization.php:1489
+msgid "Delete"
+msgstr "Vymazat"
+
+#: codestyling-localization.php:1306
+msgid "Translate Language File"
+msgstr "Přeložit jazykový soubor"
+
+#: codestyling-localization.php:1306
+msgid "back to main page &raquo;"
+msgstr "zpět na hlavní stránku &raquo;"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1639
+#: codestyling-localization.php:2134
+msgid "File:"
+msgstr "Soubor:"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1320
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "neznámý"
+
+#: codestyling-localization.php:1311
+msgid "Full Catalog"
+msgstr "Kompletní katalog"
+
+#: codestyling-localization.php:1312
+msgid "Plural Forms"
+msgstr "Plurály"
+
+#: codestyling-localization.php:1313
+msgid "No Translation"
+msgstr "Nepřeloženo"
+
+#: codestyling-localization.php:1314
+msgid "With Comment"
+msgstr "Komentované"
+
+#: codestyling-localization.php:1315
+msgid "Search Result"
+msgstr "Výsledek hledání"
+
+#: codestyling-localization.php:1316
+msgid "Expression Result"
+msgstr "Výsledek výrazu"
+
+#: codestyling-localization.php:1319
+msgid "generate mo-file"
+msgstr "vytvořit MO"
+
+#: codestyling-localization.php:1320
+msgid "last file generation at:"
+msgstr "naposled vytvořeno:"
+
+#: codestyling-localization.php:1322
+msgid "Page Size"
+msgstr "Velikost stránky"
+
+#: codestyling-localization.php:1334
+#: codestyling-localization.php:1756
+msgid "&laquo; Previous"
+msgstr "&laquo; Předchozí"
+
+#: codestyling-localization.php:1339
+#: codestyling-localization.php:1763
+msgid "Next &raquo;"
+msgstr "Další &raquo;"
+
+#: codestyling-localization.php:1347
+msgid "Infos"
+msgstr "Vyhledání"
+
+#: codestyling-localization.php:1351
+#: codestyling-localization.php:2099
+msgid "Original:"
+msgstr "Originál:"
+
+#: codestyling-localization.php:1355
+#: codestyling-localization.php:1370
+msgid "non case-sensitive"
+msgstr "bez ohledu na velikost písmen"
+
+#: codestyling-localization.php:1366
+#: codestyling-localization.php:2102
+#: codestyling-localization.php:2104
+msgid "Translation:"
+msgstr "Překlad:"
+
+#: codestyling-localization.php:1382
+msgid "Please wait, file content presently being loaded ..."
+msgstr "Čekejte, obsah souboru je nahráván..."
+
+#: codestyling-localization.php:1390
+#: codestyling-localization.php:2063
+msgid "Edit Catalog Entry"
+msgstr "Editovat výraz"
+
+#: codestyling-localization.php:1391
+msgid "close"
+msgstr "zavřít"
+
+#: codestyling-localization.php:1524
+msgid "Confirm Delete Language"
+msgstr "Potvrdit vymazání jazyka"
+
+#: codestyling-localization.php:1589
+msgid "Rescanning PHP Source Files"
+msgstr "Přeskenování zdrojových PHP souborů"
+
+#: codestyling-localization.php:1614
+#: codestyling-localization.php:1644
+msgid "finished"
+msgstr "ukončeno"
+
+#: codestyling-localization.php:1694
+msgid "Access Error"
+msgstr "Chyna přístupu"
+
+#: codestyling-localization.php:1771
+msgid "Comment:"
+msgstr "Komentář"
+
+#: codestyling-localization.php:1773
+msgid "Files:"
+msgstr "Soubory:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2087
+msgid "Singular:"
+msgstr "Singulár:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2089
+msgid "Plural:"
+msgstr "Plurál:"
+
+#: codestyling-localization.php:1785
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2076
+#: codestyling-localization.php:2081
+msgid "Plural Index Result ="
+msgstr "Výsledek indexu plurálu ="
+
+#: codestyling-localization.php:1797
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: codestyling-localization.php:1913
+msgid "Extended Expression Search"
+msgstr "Hledání podle rozšířených výrazů"
+
+#: codestyling-localization.php:1915
+msgid "Expression:"
+msgstr "Výraz:"
+
+#: codestyling-localization.php:1917
+msgid "Examples: <small>Please refer to official Perl regular expression descriptions</small>"
+msgstr "Příklady: <small>Podrobný popis regulárních výrazů najdete v dokumentaci Perlu</small>"
+
+#: codestyling-localization.php:1922
+msgid "Search"
+msgstr "Hledat"
+
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2104
+msgid "translate with Google API"
+msgstr "přeložit pomocí Google"
+
+#: codestyling-localization.php:2091
+msgid "Plural Index Calculation:"
+msgstr "Výpočet indexu plurálu:"
+
+#: codestyling-localization.php:2094
+#: codestyling-localization.php:2108
+msgid "Save"
+msgstr "Uložit"
+
+#: includes/js-help-perlreg.php:4
+msgid "Component|pcre"
+msgstr "Položka"
+
+#: includes/js-help-perlreg.php:5
+msgid "Example|pcre"
+msgstr "Příklad"
+
+#: includes/js-help-perlreg.php:6
+msgid "Description|pcre"
+msgstr "Popis"
+
+#: includes/js-help-perlreg.php:12
+#: includes/js-help-perlreg.php:17
+#: includes/js-help-perlreg.php:22
+#: includes/js-help-perlreg.php:27
+#: includes/js-help-perlreg.php:32
+#: includes/js-help-perlreg.php:37
+#: includes/js-help-perlreg.php:42
+#: includes/js-help-perlreg.php:47
+#: includes/js-help-perlreg.php:52
+#: includes/js-help-perlreg.php:112
+#: includes/js-help-perlreg.php:117
+#: includes/js-help-perlreg.php:122
+#: includes/js-help-perlreg.php:127
+msgid "out|pcre"
+msgstr "out"
+
+#: includes/js-help-perlreg.php:13
+msgid "matches \"out\", but also \"timeout\", \"outbreak\", \"Route\" and \"gouty\".|pcre"
+msgstr "odpovídá \"out\", ale také \"timeout\", \"outbreak\", \"Route\" a \"gouty\"."
+
+#: includes/js-help-perlreg.php:18
+msgid "matches \"out\" at start of string like \"out\", \"outbreak\", as long as this are the first words at string.|pcre"
+msgstr "odpovídá \"out\" na začátku řetězce jako \"out\", \"outbreak\", pokud se jedná o první slovo v řetězci."
+
+#: includes/js-help-perlreg.php:23
+msgid "matches \"out\" at end of string like \"out\", \"timeout\" and \"burnout\" as long as this are the last words at string.|pcre"
+msgstr "odpovídá \"out\" na konci řetězce \"out\", \"timeout\" a \"burnout\", pokud se jedná o poslední slovo v řetězci."
+
+#: includes/js-help-perlreg.php:28
+msgid "matches \"ou\", \"out\", \"outt\" and \"outttttt\", the char prior to asterisk can be repeated 0 to unlimited times.|pcre"
+msgstr "odpovídá \"ou\", \"out\", \"outt\" a \"outttttt\", znak před * se může opakovat od 0 do nelimitovaného počtu."
+
+#: includes/js-help-perlreg.php:33
+msgid "matches \"outt\" and \"outttt\", the char prior to plus char have to be repeated at least one time or more often.|pcre"
+msgstr "odpovídá \"outt\" a \"outttt\", znak před + se vyskytuje nejméně jednou nebo víckrát."
+
+#: includes/js-help-perlreg.php:38
+msgid "matches \"rout\" and \"gout\", any char can be placed at this position.|pcre"
+msgstr "odpovídá \"rout\" a \"gout\", na tomto místě může být libovolný znak."
+
+#: includes/js-help-perlreg.php:43
+msgid "matches \"timeout\" and \"Fallout\", any char sequence at this position. Is a combination of any char and 1 but upto many times.|pcre"
+msgstr "odpovídá \"timeout\" a \"Fallout\", na této pozici může být libovolná sekvence. Jde o kombinaci libovolného znaku s dalšími. "
+
+#: includes/js-help-perlreg.php:48
+msgid "matches \"out\" as single word. \b means word break.|pcre"
+msgstr "odpovídá \"out\" jako jednomu slovu. Znak b označuje přerušení slova."
+
+#: includes/js-help-perlreg.php:53
+msgid "matches \"out\" only inside words, like \"Route\" or \"gouty\". \B means not word break.|pcre"
+msgstr "odpovídá \"out\" pouze uvnitř slova, jako \"Route\" nebo \"gouty\". Znak B označuje nepřerušené slovo."
+
+#: includes/js-help-perlreg.php:58
+msgid "matches any number. \d means a numerical digit (0 to 9)|pcre"
+msgstr "odpovídá jakémukoliv číslu. Znak d znamená číslici (0 až 9)."
+
+#: includes/js-help-perlreg.php:63
+msgid "matches \"-out\" at \"3-out\", any non number.|pcre"
+msgstr "odpovídá \"-out\" v \"3-out\", libovolná nečíselná část výrazu."
+
+#: includes/js-help-perlreg.php:68
+msgid "matches form feed char.|pcre"
+msgstr "odpovídá znaku FF (form feed)."
+
+#: includes/js-help-perlreg.php:73
+msgid "matches line feed char.|pcre"
+msgstr "odpovídá znaku LF (line feed)."
+
+#: includes/js-help-perlreg.php:78
+msgid "matches carriage return char.|pcre"
+msgstr "odpovídá znaku CR (carriage return)."
+
+#: includes/js-help-perlreg.php:83
+msgid "matches tabulator char.|pcre"
+msgstr "odpovídá znaku tabulátor."
+
+#: includes/js-help-perlreg.php:88
+msgid "matches vertical tabulator char.|pcre"
+msgstr "odpovídá vertikálnímu tabulátoru."
+
+#: includes/js-help-perlreg.php:93
+msgid ""
+"matches any kind of whitespace like \f, \\n"
+", \t, \v and space char.|pcre"
+msgstr "odpovídá jakémukoliv prázdnému znaku (whitespace) a znaku mezery."
+
+#: includes/js-help-perlreg.php:98
+msgid "matches any char, that is not a whitespace char.|pcre"
+msgstr "odpovídá jakémukoliv znaku, který není prázdný."
+
+#: includes/js-help-perlreg.php:103
+msgid "matches any alphanumerical char and underscore (typical for programming syntax).|pcre"
+msgstr "odpovídá jakémukoliv alfanumerickému znaku a podtržítku (typicky při programování)."
+
+#: includes/js-help-perlreg.php:108
+msgid "matches any char, that is not alphanumerical char and underscore (typical for illegal char detection at programming).|pcre"
+msgstr "odpovídá jakémukoliv znaku, který není alfanumerický a podtržítko (typicky nežádoucí znaky při programování)."
+
+#: includes/js-help-perlreg.php:113
+msgid "matches \"out\" and remembers matches internally. Upto 9 brackets are allowed per expression.|pcre"
+msgstr "odpovídá \"out\" a vnitřně ukládá výsledky. Je možno použít až 9 závorek ve výrazu."
+
+#: includes/js-help-perlreg.php:118
+msgid "matches \"aus\" as often it is contained at string. The match positions will be stored internally as array.|pcre"
+msgstr "odpovídá \"out\" tolikrát, kolikrát je obsažen ve výrazu. Pozice výsledku jsou vnitřně ukládány do řetězce."
+
+#: includes/js-help-perlreg.php:123
+msgid "matches \"out\", \"Out\" and \"OUT\", not case-sensitive match.|pcre"
+msgstr "odpovídá \"out\", \"Out\" a \"OUT\", bez ohledu na velikost znaků."
+
+#: includes/js-help-perlreg.php:128
+msgid "matches \"out\", as ofter occurs (g) and also non case-sensitive.|pcre"
+msgstr "odpovídá \"out\", počet výskytů (g), bez ohledu na velikost znaků."
+

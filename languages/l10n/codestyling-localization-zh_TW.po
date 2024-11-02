@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.51\n"
+"PO-Revision-Date: 2008-09-12 15:38+0800\n"
+"Last-Translator: admin <gary711.tw@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: codestyling-localization.php:141
+msgid "required"
+msgstr ""
+
+#: codestyling-localization.php:141
+msgid "actual"
+msgstr ""
+
+#: codestyling-localization.php:261
+msgid "You do not have permission to manage translation files."
+msgstr "你沒有權限管理語系檔案"
+
+#: codestyling-localization.php:269
+#: codestyling-localization.php:965
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:274
+#: codestyling-localization.php:308
+#: codestyling-localization.php:403
+#: codestyling-localization.php:990
+msgid "activated"
+msgstr "啟用"
+
+#: codestyling-localization.php:288
+#: codestyling-localization.php:367
+#: codestyling-localization.php:377
+#: codestyling-localization.php:422
+#: codestyling-localization.php:730
+#: codestyling-localization.php:773
+#: codestyling-localization.php:812
+#: codestyling-localization.php:902
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "m/d/Y H:i:s"
+
+#: codestyling-localization.php:303
+msgid "Plugin"
+msgstr "插件"
+
+#: codestyling-localization.php:308
+#: codestyling-localization.php:403
+msgid "deactivated"
+msgstr "停用"
+
+#: codestyling-localization.php:398
+msgid "Theme"
+msgstr "佈景主題"
+
+#: codestyling-localization.php:516
+#: codestyling-localization.php:609
+msgid "Project-Id-Version"
+msgstr "專案-名稱-版本"
+
+#: codestyling-localization.php:520
+msgid "Creation-Date"
+msgstr "建立時間"
+
+#: codestyling-localization.php:524
+msgid "Last-Translator"
+msgstr "最新的翻譯者"
+
+#: codestyling-localization.php:559
+msgid "create po-file"
+msgstr "建立po檔案"
+
+#: codestyling-localization.php:570
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "你正要永久刪除 <strong>%s</strong>。<br/>檔案來源 \"<strong>%s</strong>\"。<br/>你確定要刪除這些檔案?"
+
+#: codestyling-localization.php:571
+msgid "delete files"
+msgstr "刪除檔案"
+
+#: codestyling-localization.php:613
+msgid "Language Target"
+msgstr "目標語言"
+
+#: codestyling-localization.php:618
+msgid "Affected Total Files"
+msgstr "檔案數目"
+
+#: codestyling-localization.php:623
+msgid "Scanning Progress"
+msgstr "掃描進度"
+
+#: codestyling-localization.php:631
+msgid "scan now"
+msgstr "立刻掃描"
+
+#: codestyling-localization.php:631
+msgid "Please standby, files presently being scanned ..."
+msgstr "請耐心等待，檔案正在掃描中 ..."
+
+#: codestyling-localization.php:715
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "你沒有權限建立檔案 '%s'。"
+
+#: codestyling-localization.php:723
+#: codestyling-localization.php:756
+#: codestyling-localization.php:1042
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong> 種語系"
+msgstr[1] "<strong>%d</strong> 種語系"
+
+#: codestyling-localization.php:743
+#: codestyling-localization.php:744
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "你沒有權限刪除檔案 '%s'。"
+
+#: codestyling-localization.php:778
+#: codestyling-localization.php:862
+#: codestyling-localization.php:895
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "你沒有權限寫入檔案 '%s'。"
+
+#: codestyling-localization.php:784
+#: codestyling-localization.php:875
+#: codestyling-localization.php:888
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "你沒有權限讀取檔案 '%s'。"
+
+#: codestyling-localization.php:801
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "伺服器限制: 更改檔案權限不被允許"
+
+#: codestyling-localization.php:804
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "你不被允許修改檔案權限，由於檔案 '%s' 不存在。"
+
+#: codestyling-localization.php:848
+msgid "Sorry, Google Translation is not available."
+msgstr "抱歉，無法使用 Google 翻譯"
+
+#: codestyling-localization.php:922
+msgid "WordPress Localization"
+msgstr "WordPress 本地化"
+
+#: codestyling-localization.php:922
+msgid "Localization"
+msgstr "本地化"
+
+#: codestyling-localization.php:959
+msgid "Manage Language Files"
+msgstr "管理語系檔案"
+
+#: codestyling-localization.php:962
+msgid "All Translations"
+msgstr "所有類型"
+
+#: codestyling-localization.php:968
+msgid "Plugins"
+msgstr "插件"
+
+#: codestyling-localization.php:971
+msgid "Themes"
+msgstr "佈景主題"
+
+#: codestyling-localization.php:983
+msgid "Type"
+msgstr "類型"
+
+#: codestyling-localization.php:984
+#: codestyling-localization.php:1011
+#: codestyling-localization.php:1028
+msgid "Description"
+msgstr "說明"
+
+#: codestyling-localization.php:985
+msgid "Languages"
+msgstr "語系"
+
+#: codestyling-localization.php:996
+msgid "Textdomain"
+msgstr "文字範圍"
+
+#: codestyling-localization.php:997
+msgid "defined by constant"
+msgstr "由常數所定義"
+
+#: codestyling-localization.php:1003
+#: codestyling-localization.php:1020
+msgid "Version"
+msgstr "版本"
+
+#: codestyling-localization.php:1007
+#: codestyling-localization.php:1024
+msgid "State"
+msgstr "狀態"
+
+#: codestyling-localization.php:1017
+msgid "by"
+msgstr ""
+
+#: codestyling-localization.php:1040
+#: codestyling-localization.php:1200
+msgid "Add New Language"
+msgstr "增加語系"
+
+#: codestyling-localization.php:1045
+msgid "Language"
+msgstr "語系"
+
+#: codestyling-localization.php:1046
+msgid "Permissions"
+msgstr "權限"
+
+#: codestyling-localization.php:1047
+#: codestyling-localization.php:1139
+msgid "Actions"
+msgstr "功能"
+
+#: codestyling-localization.php:1056
+#: codestyling-localization.php:1234
+msgid "Locale"
+msgstr ""
+
+#: codestyling-localization.php:1062
+#: codestyling-localization.php:1067
+#: codestyling-localization.php:1242
+msgid "-n.a.-"
+msgstr "無"
+
+#: codestyling-localization.php:1072
+#: codestyling-localization.php:1246
+#: codestyling-localization.php:1555
+msgid "Edit"
+msgstr "編輯"
+
+#: codestyling-localization.php:1074
+#: codestyling-localization.php:1248
+msgid "Rescan"
+msgstr "重新掃描"
+
+#: codestyling-localization.php:1076
+#: codestyling-localization.php:1250
+msgid "Delete"
+msgstr "刪除"
+
+#: codestyling-localization.php:1088
+msgid "Translate Language File"
+msgstr "翻譯語系檔案"
+
+#: codestyling-localization.php:1090
+#: codestyling-localization.php:1400
+#: codestyling-localization.php:1838
+msgid "File:"
+msgstr "檔案"
+
+#: codestyling-localization.php:1090
+#: codestyling-localization.php:1101
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "未知"
+
+#: codestyling-localization.php:1093
+msgid "Full Catalog"
+msgstr "所有項目"
+
+#: codestyling-localization.php:1094
+msgid "Plural Forms"
+msgstr "複數形式"
+
+#: codestyling-localization.php:1095
+msgid "No Translation"
+msgstr "尚未翻譯"
+
+#: codestyling-localization.php:1096
+msgid "With Comment"
+msgstr "附帶註解"
+
+#: codestyling-localization.php:1097
+msgid "Search Result"
+msgstr "搜尋結果"
+
+#: codestyling-localization.php:1100
+msgid "generate mo-file"
+msgstr "建立mo檔案"
+
+#: codestyling-localization.php:1101
+msgid "last file generation at:"
+msgstr "檔案建立於:"
+
+#: codestyling-localization.php:1103
+msgid "Page Size"
+msgstr "每頁顯示幾筆資料"
+
+#: codestyling-localization.php:1115
+#: codestyling-localization.php:1515
+msgid "&laquo; Previous"
+msgstr "&laquo; 前一頁"
+
+#: codestyling-localization.php:1120
+#: codestyling-localization.php:1522
+msgid "Next &raquo;"
+msgstr "下一頁 &raquo;"
+
+#: codestyling-localization.php:1128
+msgid "Infos"
+msgstr "類型"
+
+#: codestyling-localization.php:1130
+#: codestyling-localization.php:1803
+msgid "Original:"
+msgstr "原文:"
+
+#: codestyling-localization.php:1135
+#: codestyling-localization.php:1806
+#: codestyling-localization.php:1808
+msgid "Translation:"
+msgstr "翻譯:"
+
+#: codestyling-localization.php:1143
+msgid "Please wait, file content presently being loaded ..."
+msgstr "請耐心等待，檔案內容目前正在載入 ..."
+
+#: codestyling-localization.php:1151
+#: codestyling-localization.php:1767
+msgid "Edit Catalog Entry"
+msgstr "編輯項目"
+
+#: codestyling-localization.php:1152
+msgid "close"
+msgstr "關閉"
+
+#: codestyling-localization.php:1285
+msgid "Confirm Delete Language"
+msgstr "確認刪除語系"
+
+#: codestyling-localization.php:1350
+msgid "Rescanning PHP Source Files"
+msgstr "重新掃描 PHP 原始檔案"
+
+#: codestyling-localization.php:1375
+#: codestyling-localization.php:1405
+msgid "finished"
+msgstr "完成"
+
+#: codestyling-localization.php:1453
+msgid "Access Error"
+msgstr "存取錯誤"
+
+#: codestyling-localization.php:1530
+msgid "Comment:"
+msgstr "註解"
+
+#: codestyling-localization.php:1532
+msgid "Files:"
+msgstr "檔案"
+
+#: codestyling-localization.php:1541
+#: codestyling-localization.php:1791
+msgid "Singular:"
+msgstr "單數:"
+
+#: codestyling-localization.php:1541
+#: codestyling-localization.php:1793
+msgid "Plural:"
+msgstr "複數:"
+
+#: codestyling-localization.php:1544
+#: codestyling-localization.php:1774
+#: codestyling-localization.php:1777
+#: codestyling-localization.php:1780
+#: codestyling-localization.php:1785
+msgid "Plural Index Result ="
+msgstr "複數指標 = "
+
+#: codestyling-localization.php:1774
+#: codestyling-localization.php:1777
+#: codestyling-localization.php:1808
+msgid "translate with Google API"
+msgstr "利用 Google API 翻譯"
+
+#: codestyling-localization.php:1795
+msgid "Plural Index Calculation:"
+msgstr "複數指標計算結果:"
+
+#: codestyling-localization.php:1798
+#: codestyling-localization.php:1812
+msgid "Save"
+msgstr "儲存"
+
+#: codestyling-localization.php:1556
+msgid "Copy"
+msgstr "复制"
+

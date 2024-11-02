@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.55\n"
+"PO-Revision-Date: 2008-10-16 20:17+0200\n"
+"Last-Translator: admin <basaurigorria@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: codestyling-localization.php:145
+msgid "required"
+msgstr "requerido"
+
+#: codestyling-localization.php:145
+msgid "actual"
+msgstr "actual"
+
+#: codestyling-localization.php:265
+msgid "You do not have permission to manage translation files."
+msgstr "No tiene permisos para administrar los ficheros de traducción."
+
+#: codestyling-localization.php:273
+#: codestyling-localization.php:969
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:278
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+#: codestyling-localization.php:994
+msgid "activated"
+msgstr "activado"
+
+#: codestyling-localization.php:292
+#: codestyling-localization.php:371
+#: codestyling-localization.php:381
+#: codestyling-localization.php:426
+#: codestyling-localization.php:734
+#: codestyling-localization.php:777
+#: codestyling-localization.php:816
+#: codestyling-localization.php:906
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "d-m-Y H:i:s"
+
+#: codestyling-localization.php:307
+msgid "Plugin"
+msgstr "Plugin"
+
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+msgid "deactivated"
+msgstr "desactivado"
+
+#: codestyling-localization.php:402
+msgid "Theme"
+msgstr "Tema"
+
+#: codestyling-localization.php:520
+#: codestyling-localization.php:613
+msgid "Project-Id-Version"
+msgstr "Id-Versión-Proyecto"
+
+#: codestyling-localization.php:524
+msgid "Creation-Date"
+msgstr "Fecha-Creación"
+
+#: codestyling-localization.php:528
+msgid "Last-Translator"
+msgstr "Ultimo-Traductor"
+
+#: codestyling-localization.php:563
+msgid "create po-file"
+msgstr "crear po-file"
+
+#: codestyling-localization.php:574
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "Va a eliminar <strong>%s</strong> de \"<strong>%s</strong>\" permanentemente.<br/>¿Está seguro de que desea eliminar estos archivos?"
+
+#: codestyling-localization.php:575
+msgid "delete files"
+msgstr "borrar ficheros"
+
+#: codestyling-localization.php:617
+msgid "Language Target"
+msgstr "Idioma destino"
+
+#: codestyling-localization.php:622
+msgid "Affected Total Files"
+msgstr "Ficheros totales afectados"
+
+#: codestyling-localization.php:627
+msgid "Scanning Progress"
+msgstr "Proceso de escaneo"
+
+#: codestyling-localization.php:635
+msgid "scan now"
+msgstr "escanear ahora"
+
+#: codestyling-localization.php:635
+msgid "Please standby, files presently being scanned ..."
+msgstr "Por favor, manténgase a la espera,actualmente los archivos están siendo escaneados..."
+
+#: codestyling-localization.php:719
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "Usted no tienes permisos para crear el fichero '%s'."
+
+#: codestyling-localization.php:727
+#: codestyling-localization.php:760
+#: codestyling-localization.php:1046
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong> Idioma"
+msgstr[1] "<strong>%d</strong> Idiomas"
+
+#: codestyling-localization.php:747
+#: codestyling-localization.php:748
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "Usted no tienes permisos para eliminar el fichero '%s'."
+
+#: codestyling-localization.php:782
+#: codestyling-localization.php:866
+#: codestyling-localization.php:899
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "Usted no tienes permisos para escribir el fichero '%s'."
+
+#: codestyling-localization.php:788
+#: codestyling-localization.php:879
+#: codestyling-localization.php:892
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "Usted no tienes permisos para leer el fichero '%s'."
+
+#: codestyling-localization.php:805
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "Restricciones de servidor: Cambio de permisos de fichero no permitido"
+
+#: codestyling-localization.php:808
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "Usted no tienes permisos para modificar los permisos para el fichero no existente '%s'."
+
+#: codestyling-localization.php:852
+msgid "Sorry, Google Translation is not available."
+msgstr "Disculpe, Google Translation no esta disponible."
+
+#: codestyling-localization.php:926
+msgid "WordPress Localization"
+msgstr "Idioma WordPress"
+
+#: codestyling-localization.php:926
+msgid "Localization"
+msgstr "Localización"
+
+#: codestyling-localization.php:963
+msgid "Manage Language Files"
+msgstr "Administrar ficheros de idioma"
+
+#: codestyling-localization.php:966
+msgid "All Translations"
+msgstr "Todas las traducciones"
+
+#: codestyling-localization.php:972
+msgid "Plugins"
+msgstr "Plugins"
+
+#: codestyling-localization.php:975
+msgid "Themes"
+msgstr "Temas"
+
+#: codestyling-localization.php:987
+msgid "Type"
+msgstr "Tipo"
+
+#: codestyling-localization.php:988
+#: codestyling-localization.php:1015
+#: codestyling-localization.php:1032
+msgid "Description"
+msgstr "Descripción"
+
+#: codestyling-localization.php:989
+msgid "Languages"
+msgstr "Idiomas"
+
+#: codestyling-localization.php:1000
+msgid "Textdomain"
+msgstr "Textdomain"
+
+#: codestyling-localization.php:1001
+msgid "defined by constant"
+msgstr "definido por constante"
+
+#: codestyling-localization.php:1007
+#: codestyling-localization.php:1024
+msgid "Version"
+msgstr "Versión"
+
+#: codestyling-localization.php:1011
+#: codestyling-localization.php:1028
+msgid "State"
+msgstr "Estado"
+
+#: codestyling-localization.php:1021
+msgid "by"
+msgstr "por"
+
+#: codestyling-localization.php:1044
+#: codestyling-localization.php:1204
+msgid "Add New Language"
+msgstr "Añadir nuevo idioma"
+
+#: codestyling-localization.php:1049
+msgid "Language"
+msgstr "Idioma"
+
+#: codestyling-localization.php:1050
+msgid "Permissions"
+msgstr "Permisos"
+
+#: codestyling-localization.php:1051
+#: codestyling-localization.php:1143
+msgid "Actions"
+msgstr "Acciones"
+
+#: codestyling-localization.php:1060
+#: codestyling-localization.php:1238
+msgid "Locale"
+msgstr "Local"
+
+#: codestyling-localization.php:1066
+#: codestyling-localization.php:1071
+#: codestyling-localization.php:1246
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1076
+#: codestyling-localization.php:1250
+#: codestyling-localization.php:1559
+msgid "Edit"
+msgstr "Editar"
+
+#: codestyling-localization.php:1078
+#: codestyling-localization.php:1252
+msgid "Rescan"
+msgstr "Volver a escanear"
+
+#: codestyling-localization.php:1080
+#: codestyling-localization.php:1254
+msgid "Delete"
+msgstr "Borrar"
+
+#: codestyling-localization.php:1092
+msgid "Translate Language File"
+msgstr "Traducir fichero de idioma"
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1404
+#: codestyling-localization.php:1842
+msgid "File:"
+msgstr "Fichero:"
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1105
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "desconocido"
+
+#: codestyling-localization.php:1097
+msgid "Full Catalog"
+msgstr "Catalogo completo"
+
+#: codestyling-localization.php:1098
+msgid "Plural Forms"
+msgstr "Formas plurales"
+
+#: codestyling-localization.php:1099
+msgid "No Translation"
+msgstr "Sin Traducción"
+
+#: codestyling-localization.php:1100
+msgid "With Comment"
+msgstr "Con Comentarios"
+
+#: codestyling-localization.php:1101
+msgid "Search Result"
+msgstr "Resultados de la búsqueda"
+
+#: codestyling-localization.php:1104
+msgid "generate mo-file"
+msgstr "generar mo-file"
+
+#: codestyling-localization.php:1105
+msgid "last file generation at:"
+msgstr "Ultima generación del fichero a:"
+
+#: codestyling-localization.php:1107
+msgid "Page Size"
+msgstr "Tamaño de pagina"
+
+#: codestyling-localization.php:1119
+#: codestyling-localization.php:1519
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: codestyling-localization.php:1124
+#: codestyling-localization.php:1526
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: codestyling-localization.php:1132
+msgid "Infos"
+msgstr "Infos"
+
+#: codestyling-localization.php:1134
+#: codestyling-localization.php:1807
+msgid "Original:"
+msgstr "Original:"
+
+#: codestyling-localization.php:1139
+#: codestyling-localization.php:1810
+#: codestyling-localization.php:1812
+msgid "Translation:"
+msgstr "Traducción:"
+
+#: codestyling-localization.php:1147
+msgid "Please wait, file content presently being loaded ..."
+msgstr "Por favor espere, el contenido del fichero se esta cargando..."
+
+#: codestyling-localization.php:1155
+#: codestyling-localization.php:1771
+msgid "Edit Catalog Entry"
+msgstr "Editar entrada de catalogo"
+
+#: codestyling-localization.php:1156
+msgid "close"
+msgstr "cerrar"
+
+#: codestyling-localization.php:1289
+msgid "Confirm Delete Language"
+msgstr "Confirmar borrado de idioma"
+
+#: codestyling-localization.php:1354
+msgid "Rescanning PHP Source Files"
+msgstr "Escaneando ficheros PHP"
+
+#: codestyling-localization.php:1379
+#: codestyling-localization.php:1409
+msgid "finished"
+msgstr "finalizado"
+
+#: codestyling-localization.php:1457
+msgid "Access Error"
+msgstr "Error de acceso"
+
+#: codestyling-localization.php:1534
+msgid "Comment:"
+msgstr "Comentario:"
+
+#: codestyling-localization.php:1536
+msgid "Files:"
+msgstr "Ficheros:"
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1795
+msgid "Singular:"
+msgstr "Singular:"
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1797
+msgid "Plural:"
+msgstr "Plural:"
+
+#: codestyling-localization.php:1548
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1784
+#: codestyling-localization.php:1789
+msgid "Plural Index Result ="
+msgstr "Resultado del índice del plural ="
+
+#: codestyling-localization.php:1560
+msgid "Copy"
+msgstr "Copiar"
+
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1812
+msgid "translate with Google API"
+msgstr "traducir con Google API"
+
+#: codestyling-localization.php:1799
+msgid "Plural Index Calculation:"
+msgstr "Cálculo del índice del plural:"
+
+#: codestyling-localization.php:1802
+#: codestyling-localization.php:1816
+msgid "Save"
+msgstr "Guardar"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-01 21:35+0300\n"
+"PO-Revision-Date: 2009-06-29 19:36+0300\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cower <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: .\n"
+": \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: codestyling-localization.php:104
+msgid "required"
+msgstr "патрабуецца"
+
+#: codestyling-localization.php:104
+msgid "actual"
+msgstr "фактычна"
+
+#: codestyling-localization.php:243
+msgid "You do not have permission to manage translation files."
+msgstr "У вас няма дазволу на кіраванне перакладзенымі файламі"
+
+#: codestyling-localization.php:253
+#: codestyling-localization.php:1148
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:259
+#: codestyling-localization.php:298
+#: codestyling-localization.php:405
+#: codestyling-localization.php:479
+#: codestyling-localization.php:1179
+msgid "activated"
+msgstr "актывавана"
+
+#: codestyling-localization.php:277
+#: codestyling-localization.php:358
+#: codestyling-localization.php:368
+#: codestyling-localization.php:459
+#: codestyling-localization.php:499
+#: codestyling-localization.php:867
+#: codestyling-localization.php:910
+#: codestyling-localization.php:949
+#: codestyling-localization.php:1039
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "m/d/Y H:i:s"
+
+#: codestyling-localization.php:293
+msgid "Plugin"
+msgstr "Убудова"
+
+#: codestyling-localization.php:298
+#: codestyling-localization.php:479
+msgid "deactivated"
+msgstr "неактыўны"
+
+#: codestyling-localization.php:400
+#, fuzzy
+msgid "? Plugin"
+msgstr "Убудова"
+
+#: codestyling-localization.php:474
+msgid "Theme"
+msgstr "Тэма"
+
+#: codestyling-localization.php:653
+#: codestyling-localization.php:746
+msgid "Project-Id-Version"
+msgstr "Праект-Id-Версія"
+
+#: codestyling-localization.php:657
+msgid "Creation-Date"
+msgstr "Дата стварэння"
+
+#: codestyling-localization.php:661
+msgid "Last-Translator"
+msgstr "Перакладчык"
+
+#: codestyling-localization.php:696
+msgid "create po-file"
+msgstr "coздать po-файл"
+
+#: codestyling-localization.php:707
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "Вы збіраецеся выдаліць <strong>%s</strong> з \"<strong>%s</strong>\" назаўжды.<br/>Вы ўпэўненыя што жадаеце выдаліць гэтыя файлы?"
+
+#: codestyling-localization.php:708
+msgid "delete files"
+msgstr "выдаліць файлы"
+
+#: codestyling-localization.php:750
+msgid "Language Target"
+msgstr "Моўная панэль"
+
+#: codestyling-localization.php:755
+msgid "Affected Total Files"
+msgstr "Усе неапрацаваныя файлы"
+
+#: codestyling-localization.php:760
+msgid "Scanning Progress"
+msgstr "Працэс сканавання"
+
+#: codestyling-localization.php:768
+msgid "scan now"
+msgstr "сканаваць"
+
+#: codestyling-localization.php:768
+msgid "Please standby, files presently being scanned ..."
+msgstr "Калі ласка нічога не прадпрымайце, файлы хутка будуць апрацаваныя..."
+
+#: codestyling-localization.php:852
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "У вас няма мае рацыю для стварэння файла '%s'."
+
+#: codestyling-localization.php:860
+#: codestyling-localization.php:893
+#: codestyling-localization.php:1258
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "<strong>%d</strong> Мова"
+msgstr[1] "<strong>%d</strong> Мовы"
+msgstr[2] "<strong>%d</strong> Моў"
+
+#: codestyling-localization.php:880
+#: codestyling-localization.php:881
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "У вас няма дазволаў што бы выдаліць гэты файл'%s'."
+
+#: codestyling-localization.php:915
+#: codestyling-localization.php:999
+#: codestyling-localization.php:1032
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "У вас няма дазволаў што бы рэдагаваць гэты файл'%"
+
+#: codestyling-localization.php:921
+#: codestyling-localization.php:1012
+#: codestyling-localization.php:1025
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "У вас няма дазволаў што бы чытаць гэты файл'%"
+
+#: codestyling-localization.php:938
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "Абмежаванні сервера: Змена мае рацыю файлам не дазволеная."
+
+#: codestyling-localization.php:941
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "У вас няма дазволу для мадыфікацыі мае рацыю доступу да файлаў'%s'."
+
+#: codestyling-localization.php:985
+msgid "Sorry, Google Translation is not available."
+msgstr "Нажаль Google пераклад недаступны"
+
+#: codestyling-localization.php:1052
+msgid "You do not have the permission to create the WordPress Language File Path.<br/>Please create the appropriated path using you FTP access."
+msgstr "У Вас нядосыць мае рацыю для стварэння моўнага файла ў WordPress.<br/>Калі ласка стварыце прыдатны шлях для працы праз FTP."
+
+#: codestyling-localization.php:1072
+msgid "You do not have the permission to choose the translation file directory<br/>Please upload at least on language file (*.mo|*.po) or an empty template file (*.pot) at the appropriated folder using FTP."
+msgstr "У Вас нядосыць мае рацыю што бы выбіраць дырэкторыю файла перакладу<br/>Калі ласка загрузіце моўны файл (*.mo|*.po) або пусты файл шаблону (*.pot) у тэчцы для працы праз  FTP."
+
+#: codestyling-localization.php:1129
+msgid "WordPress Localization"
+msgstr "Лакалізацыя Wordpress"
+
+#: codestyling-localization.php:1129
+msgid "Localization"
+msgstr "Лакалізацыя"
+
+#: codestyling-localization.php:1142
+msgid "Manage Language Files"
+msgstr "Кіраванне моўнымі файламі"
+
+#: codestyling-localization.php:1145
+msgid "All Translations"
+msgstr "Усе файлы "
+
+#: codestyling-localization.php:1152
+#, fuzzy
+msgid "? Plugins"
+msgstr "Убудовы"
+
+#: codestyling-localization.php:1156
+msgid "Plugins"
+msgstr "Убудовы"
+
+#: codestyling-localization.php:1159
+msgid "Themes"
+msgstr "Тэмы"
+
+#: codestyling-localization.php:1172
+msgid "Type"
+msgstr "Тып"
+
+#: codestyling-localization.php:1173
+#: codestyling-localization.php:1200
+#: codestyling-localization.php:1222
+msgid "Description"
+msgstr "Апісанне"
+
+#: codestyling-localization.php:1174
+msgid "Languages"
+msgstr "Мовы "
+
+#: codestyling-localization.php:1185
+msgid "Textdomain"
+msgstr "Назоў файла"
+
+#: codestyling-localization.php:1186
+msgid "defined by constant"
+msgstr "вызначанае канстантай"
+
+#: codestyling-localization.php:1192
+#: codestyling-localization.php:1214
+msgid "Version"
+msgstr "Версія"
+
+#: codestyling-localization.php:1196
+#: codestyling-localization.php:1218
+msgid "State"
+msgstr "Стан"
+
+#: codestyling-localization.php:1205
+msgid "<strong>ATTENTION</strong>: The path of translation files is ambiguous, please select the language file folder!"
+msgstr "<strong>УВАГА</strong>: Шлях для файлаў перакладу неестесственный, калі ласка вылучыце тэчку файлаў перакладу!"
+
+#: codestyling-localization.php:1211
+msgid "by"
+msgstr "ад "
+
+#: codestyling-localization.php:1231
+msgid "The original US version doesn't contain the language directory."
+msgstr "Арыгінальная версія US не ўтрымоўвае моўны дырэкторый."
+
+#: codestyling-localization.php:1233
+msgid "try to create the WordPress language directory"
+msgstr "спрабуем стварыць дырэкторыю перакладаў WordPress"
+
+#: codestyling-localization.php:1236
+msgid "or create the missing directory using FTP Access as:"
+msgstr "або стварыце адсутную дырэкторыю, выкарыстаючы доступ па FTP як:"
+
+#: codestyling-localization.php:1241
+msgid "Available Directories:"
+msgstr "Даступныя дырэкторыі:"
+
+#: codestyling-localization.php:1256
+#: codestyling-localization.php:1439
+msgid "Add New Language"
+msgstr "Дадаць новую мову"
+
+#: codestyling-localization.php:1261
+msgid "Language"
+msgstr "Мова"
+
+#: codestyling-localization.php:1262
+msgid "Permissions"
+msgstr "Файлы "
+
+#: codestyling-localization.php:1263
+#: codestyling-localization.php:1378
+msgid "Actions"
+msgstr "Дзеянні"
+
+#: codestyling-localization.php:1272
+#: codestyling-localization.php:1473
+msgid "Locale"
+msgstr "Лакальна"
+
+#: codestyling-localization.php:1278
+#: codestyling-localization.php:1283
+#: codestyling-localization.php:1481
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1288
+#: codestyling-localization.php:1485
+#: codestyling-localization.php:1796
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: codestyling-localization.php:1290
+#: codestyling-localization.php:1487
+msgid "Rescan"
+msgstr "Сканаваць"
+
+#: codestyling-localization.php:1292
+#: codestyling-localization.php:1489
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: codestyling-localization.php:1306
+msgid "Translate Language File"
+msgstr "Перакладзены моўны файл"
+
+#: codestyling-localization.php:1306
+msgid "back to main page &raquo;"
+msgstr "назад на асноўную старонку &raquo;"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1639
+#: codestyling-localization.php:2134
+msgid "File:"
+msgstr "Файл:"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1320
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "невядома "
+
+#: codestyling-localization.php:1311
+msgid "Full Catalog"
+msgstr "Поўны каталог"
+
+#: codestyling-localization.php:1312
+msgid "Plural Forms"
+msgstr "Множныя формы"
+
+#: codestyling-localization.php:1313
+msgid "No Translation"
+msgstr "Без перакладу"
+
+#: codestyling-localization.php:1314
+msgid "With Comment"
+msgstr "З каментаваннем"
+
+#: codestyling-localization.php:1315
+msgid "Search Result"
+msgstr "Вынік пошуку"
+
+#: codestyling-localization.php:1316
+msgid "Expression Result"
+msgstr "Вынік выраза"
+
+#: codestyling-localization.php:1319
+msgid "generate mo-file"
+msgstr "генераваць mo-файл"
+
+#: codestyling-localization.php:1320
+msgid "last file generation at:"
+msgstr "апошні згенераваны файл у: "
+
+#: codestyling-localization.php:1322
+msgid "Page Size"
+msgstr "Памер старонкі"
+
+#: codestyling-localization.php:1334
+#: codestyling-localization.php:1756
+msgid "&laquo; Previous"
+msgstr "&laquo; Папярэднія"
+
+#: codestyling-localization.php:1339
+#: codestyling-localization.php:1763
+msgid "Next &raquo;"
+msgstr "Наступныя &raquo;"
+
+#: codestyling-localization.php:1347
+msgid "Infos"
+msgstr "Інфа"
+
+#: codestyling-localization.php:1351
+#: codestyling-localization.php:2099
+msgid "Original:"
+msgstr "Арыгінал:"
+
+#: codestyling-localization.php:1355
+#: codestyling-localization.php:1370
+msgid "non case-sensitive"
+msgstr "рэгістр не ўлічваецца"
+
+#: codestyling-localization.php:1366
+#: codestyling-localization.php:2102
+#: codestyling-localization.php:2104
+msgid "Translation:"
+msgstr "Пераклад:"
+
+#: codestyling-localization.php:1382
+msgid "Please wait, file content presently being loaded ..."
+msgstr "Калі ласка пачакайце, змесціва файлаў хутка загрузіцца..."
+
+#: codestyling-localization.php:1390
+#: codestyling-localization.php:2063
+msgid "Edit Catalog Entry"
+msgstr "Рэдагаванне "
+
+#: codestyling-localization.php:1391
+msgid "close"
+msgstr "зачыніць"
+
+#: codestyling-localization.php:1524
+msgid "Confirm Delete Language"
+msgstr "Пацвердзіць выдаленне мовы"
+
+#: codestyling-localization.php:1589
+msgid "Rescanning PHP Source Files"
+msgstr "Сканаванне PHP файлаў"
+
+#: codestyling-localization.php:1614
+#: codestyling-localization.php:1644
+msgid "finished"
+msgstr "завяршыць"
+
+#: codestyling-localization.php:1694
+msgid "Access Error"
+msgstr "Памылка доступу"
+
+#: codestyling-localization.php:1771
+msgid "Comment:"
+msgstr "Каментары:"
+
+#: codestyling-localization.php:1773
+msgid "Files:"
+msgstr "Файлы:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2087
+msgid "Singular:"
+msgstr "Адзіны:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2089
+msgid "Plural:"
+msgstr "Множны:"
+
+#: codestyling-localization.php:1785
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2076
+#: codestyling-localization.php:2081
+msgid "Plural Index Result ="
+msgstr "Вынік усіх індэксаў ="
+
+#: codestyling-localization.php:1797
+msgid "Copy"
+msgstr "Капіяваць"
+
+#: codestyling-localization.php:1913
+msgid "Extended Expression Search"
+msgstr "Пашыраны пошук выраза"
+
+#: codestyling-localization.php:1915
+msgid "Expression:"
+msgstr "Выраз:"
+
+#: codestyling-localization.php:1917
+msgid "Examples: <small>Please refer to official Perl regular expression descriptions</small>"
+msgstr "Прыклады: <small>Калі ласка спашліцеся на апісанні рэгулярнага выраза Perl</small> "
+
+#: codestyling-localization.php:1922
+#, fuzzy
+msgid "Search"
+msgstr "Вынік пошуку"
+
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2104
+msgid "translate with Google API"
+msgstr "пераклад у  Google API"
+
+#: codestyling-localization.php:2091
+msgid "Plural Index Calculation:"
+msgstr "Вынік вылічэння ўсіх індэксаў"
+
+#: codestyling-localization.php:2094
+#: codestyling-localization.php:2108
+msgid "Save"
+msgstr "Захаваць"
+
+#: includes/js-help-perlreg.php:4
+msgid "Component|pcre"
+msgstr "Кампанент|pcre"
+
+#: includes/js-help-perlreg.php:5
+msgid "Example|pcre"
+msgstr "Прыклад|pcre"
+
+#: includes/js-help-perlreg.php:6
+#, fuzzy
+msgid "Description|pcre"
+msgstr "Апісанне"
+
+#: includes/js-help-perlreg.php:12
+#: includes/js-help-perlreg.php:17
+#: includes/js-help-perlreg.php:22
+#: includes/js-help-perlreg.php:27
+#: includes/js-help-perlreg.php:32
+#: includes/js-help-perlreg.php:37
+#: includes/js-help-perlreg.php:42
+#: includes/js-help-perlreg.php:47
+#: includes/js-help-perlreg.php:52
+#: includes/js-help-perlreg.php:112
+#: includes/js-help-perlreg.php:117
+#: includes/js-help-perlreg.php:122
+#: includes/js-help-perlreg.php:127
+msgid "out|pcre"
+msgstr "з|pcre"
+
+#: includes/js-help-perlreg.php:13
+msgid "matches \"out\", but also \"timeout\", \"outbreak\", \"Route\" and \"gouty\".|pcre"
+msgstr "адпавядае \"out\", а таксама \"timeout\", \"outbreak\", \"Route\" і \"gouty\".|pcre"
+
+#: includes/js-help-perlreg.php:18
+msgid "matches \"out\" at start of string like \"out\", \"outbreak\", as long as this are the first words at string.|pcre"
+msgstr "адпавядае \"out\" у пачатку радка як \"out\", \"outbreak\",такой жа даўжыні як і першае слова ў радку.|pcre"
+
+#: includes/js-help-perlreg.php:23
+msgid "matches \"out\" at end of string like \"out\", \"timeout\" and \"burnout\" as long as this are the last words at string.|pcre"
+msgstr "адпавядае \"out\" у пачатку радка як \"out\", \"timeout\" і \"burnout\" такой жа даўжыні як і апошняе слова ў радку.|pcre"
+
+#: includes/js-help-perlreg.php:28
+msgid "matches \"ou\", \"out\", \"outt\" and \"outttttt\", the char prior to asterisk can be repeated 0 to unlimited times.|pcre"
+msgstr "адпавядае \"ou\", \"out\", \"outt\" і \"outttttt\", знак да зорачкі можа быць паўторны 0 у неабмежаваны час.|pcre"
+
+#: includes/js-help-perlreg.php:33
+msgid "matches \"outt\" and \"outttt\", the char prior to plus char have to be repeated at least one time or more often.|pcre"
+msgstr "адпавядае \"outt\" і \"outttt\", знак плюс павінен быць паўторны прынамсі адзін раз або гушчару.|pcre"
+
+#: includes/js-help-perlreg.php:38
+msgid "matches \"rout\" and \"gout\", any char can be placed at this position.|pcre"
+msgstr "адпавядае \"rout\" і \"gout\", любы знак можа быць усталяваны ў гэтай пазіцыі.|pcre"
+
+#: includes/js-help-perlreg.php:43
+msgid "matches \"timeout\" and \"Fallout\", any char sequence at this position. Is a combination of any char and 1 but upto many times.|pcre"
+msgstr "адпавядае \"timeout\" і \"Fallout\", любая знакавая паслядоўнасць у гэтай пазіцыі. - камбінацыя любога знака і 1, але толькі шмат раз.|pcre"
+
+#: includes/js-help-perlreg.php:48
+msgid "matches \"out\" as single word. \\b means word break.|pcre"
+msgstr "адпавядае \"out\" як адзінае слова. \\b сродак перапынення тэксту.|pcre"
+
+#: includes/js-help-perlreg.php:53
+msgid "matches \"out\" only inside words, like \"Route\" or \"gouty\". \\B means not word break.|pcre"
+msgstr "адпавядае \"out\" толькі ў слове, як \"Route\" or \"gouty\". \\B не перарывае тэкст.|pcre"
+
+#: includes/js-help-perlreg.php:58
+msgid "matches any number. \\d means a numerical digit (0 to 9)|pcre"
+msgstr "адпавядае любому ліку. \\d азначае лічбу (0 to 9)|pcre"
+
+#: includes/js-help-perlreg.php:63
+msgid "matches \"-out\" at \"3-out\", any non number.|pcre"
+msgstr "адпавядае \"-out\" at \"3-out\", любому не ліку.|pcre"
+
+#: includes/js-help-perlreg.php:68
+msgid "matches form feed char.|pcre"
+msgstr "адпавядае форме знака  feed.|pcre"
+
+#: includes/js-help-perlreg.php:73
+msgid "matches line feed char.|pcre"
+msgstr "адпавядае перакладу радка знака.|pcre"
+
+#: includes/js-help-perlreg.php:78
+msgid "matches carriage return char.|pcre"
+msgstr "адпавядае звароту знака.|pcre"
+
+#: includes/js-help-perlreg.php:83
+msgid "matches tabulator char.|pcre"
+msgstr "адпавядае знаку табуляцыі.|pcre"
+
+#: includes/js-help-perlreg.php:88
+msgid "matches vertical tabulator char.|pcre"
+msgstr "адпавядае вертыкальнаму знаку табулятара.|pcre"
+
+#: includes/js-help-perlreg.php:93
+msgid ""
+"matches any kind of whitespace like \\f, \\n"
+", \\t, \\v and space char.|pcre"
+msgstr ""
+"адпавядае любому тыпу інтэрвалу як \\f, \\n"
+", \\t, \\v і знаку прабелу.|pcre"
+
+#: includes/js-help-perlreg.php:98
+msgid "matches any char, that is not a whitespace char.|pcre"
+msgstr "адпавядае любому знаку, які - не знак інтэрвалу.|pcre"
+
+#: includes/js-help-perlreg.php:103
+msgid "matches any alphanumerical char and underscore (typical for programming syntax).|pcre"
+msgstr "адпавядае любому літарнаму лічбаваму знаку і падкрэсленні (тыповы для сінтаксісу праграмавання ).|pcre"
+
+#: includes/js-help-perlreg.php:108
+msgid "matches any char, that is not alphanumerical char and underscore (typical for illegal char detection at programming).|pcre"
+msgstr "адпавядае любому знаку, які - не літарны лічбавы знак і падкрэсленні (тыповы для непрынятага ў праграмаванні).|pcre"
+
+#: includes/js-help-perlreg.php:113
+msgid "matches \"out\" and remembers matches internally. Upto 9 brackets are allowed per expression.|pcre"
+msgstr "адпавядае \"out\" і запамінае суадноснасць. Дужкі да і пасля  дапушчаныя за выраз.|pcre"
+
+#: includes/js-help-perlreg.php:118
+msgid "matches \"aus\" as often it is contained at string. The match positions will be stored internally as array.|pcre"
+msgstr "адпавядае \"aus\" як часта ўтрымоўваецца ў радку. Пазіцыі адпаведнасці захаваецца непасрэдна як масіў.|pcre"
+
+#: includes/js-help-perlreg.php:123
+msgid "matches \"out\", \"Out\" and \"OUT\", not case-sensitive match.|pcre"
+msgstr "адпавядае \"out\", \"Out\" and \"OUT\", рэгістр не ўлічваецца.|pcre"
+
+#: includes/js-help-perlreg.php:128
+msgid "matches \"out\", as ofter occurs (g) and also non case-sensitive.|pcre"
+msgstr "адпавядае \"out\", як і пасля (g) і таксама рэгістр не ўлічваецца.|pcre"
+

@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.72\n"
+"PO-Revision-Date: 2009-02-03 08:15+0100\n"
+"Last-Translator: admin <gsa@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: codestyling-localization.php:104
+msgid "required"
+msgstr "påkrævet"
+
+#: codestyling-localization.php:104
+msgid "actual"
+msgstr "faktiske"
+
+#: codestyling-localization.php:243
+msgid "You do not have permission to manage translation files."
+msgstr "Du har ikke tilladelse til at håndtere oversættelsesfiler."
+
+#: codestyling-localization.php:253
+#: codestyling-localization.php:1148
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:259
+#: codestyling-localization.php:298
+#: codestyling-localization.php:405
+#: codestyling-localization.php:479
+#: codestyling-localization.php:1179
+msgid "activated"
+msgstr "aktiveret"
+
+#: codestyling-localization.php:277
+#: codestyling-localization.php:358
+#: codestyling-localization.php:368
+#: codestyling-localization.php:459
+#: codestyling-localization.php:499
+#: codestyling-localization.php:867
+#: codestyling-localization.php:910
+#: codestyling-localization.php:949
+#: codestyling-localization.php:1039
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "Y/m/d H.i"
+
+#: codestyling-localization.php:293
+msgid "Plugin"
+msgstr "Plugin"
+
+#: codestyling-localization.php:298
+#: codestyling-localization.php:479
+msgid "deactivated"
+msgstr "deaktiveret"
+
+#: codestyling-localization.php:400
+msgid "μ Plugin"
+msgstr "μ Plugin"
+
+#: codestyling-localization.php:474
+msgid "Theme"
+msgstr "Tema"
+
+#: codestyling-localization.php:653
+#: codestyling-localization.php:746
+msgid "Project-Id-Version"
+msgstr "Project-Id-Version"
+
+#: codestyling-localization.php:657
+msgid "Creation-Date"
+msgstr "Oprettelsesdato"
+
+#: codestyling-localization.php:661
+msgid "Last-Translator"
+msgstr "Sidste oversætter"
+
+#: codestyling-localization.php:696
+msgid "create po-file"
+msgstr "Dan po-fil"
+
+#: codestyling-localization.php:707
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "Du er ved uigenkaldeligt at slette <strong>%s</strong> fra \"<strong>%s</strong>\" permanent.<br/>Er du sikker på, at du ønsker at slette denne fil?"
+
+#: codestyling-localization.php:708
+msgid "delete files"
+msgstr "slet filer"
+
+#: codestyling-localization.php:750
+msgid "Language Target"
+msgstr "Sprog der skal oversættes til"
+
+#: codestyling-localization.php:755
+msgid "Affected Total Files"
+msgstr "I alt berørte filer"
+
+#: codestyling-localization.php:760
+msgid "Scanning Progress"
+msgstr "Skanningsprogression"
+
+#: codestyling-localization.php:768
+msgid "scan now"
+msgstr "Skan nu"
+
+#: codestyling-localization.php:768
+msgid "Please standby, files presently being scanned ..."
+msgstr "Vent venligst, filer skannes ..."
+
+#: codestyling-localization.php:852
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "Du har ikke tilladelse til at oprette filen '% s'."
+
+#: codestyling-localization.php:860
+#: codestyling-localization.php:893
+#: codestyling-localization.php:1258
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "sprog"
+msgstr[1] "sprog"
+
+#: codestyling-localization.php:880
+#: codestyling-localization.php:881
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "Du har ikke tilladelse til at slette filen '%s'."
+
+#: codestyling-localization.php:915
+#: codestyling-localization.php:999
+#: codestyling-localization.php:1032
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "Du har ikke tilladelse til at skrive filen '%s'."
+
+#: codestyling-localization.php:921
+#: codestyling-localization.php:1012
+#: codestyling-localization.php:1025
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "Du har ikke tilladelse til at læse filen '%s'."
+
+#: codestyling-localization.php:938
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "Serverbegrænsninger: Ændring af filrettigheder er ikke tilladt."
+
+#: codestyling-localization.php:941
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "Du har ikke tilladelse til at ændre filrettigheder for den ikke eksisterende fil '%s'."
+
+#: codestyling-localization.php:985
+msgid "Sorry, Google Translation is not available."
+msgstr "Beklager, Google Oversættelse er ikke tilgængelig."
+
+#: codestyling-localization.php:1052
+msgid "You do not have the permission to create the WordPress Language File Path.<br/>Please create the appropriated path using you FTP access."
+msgstr "Du har ikke tilladelse til at oprette WordPress Language filstien.<br/>Opret venligst den nødvendige sti via din FTP-adgang."
+
+#: codestyling-localization.php:1072
+msgid "You do not have the permission to choose the translation file directory<br/>Please upload at least on language file (*.mo|*.po) or an empty template file (*.pot) at the appropriated folder using FTP."
+msgstr "Du har ikke tilladelse til at vælge mappe til oversættelsesfilen<br/>Upload mindst én sprogfil (*.mo | *.po) eller en tom skabelonfil (*.pot) til den nødvendige mappe ved hjælp af FTP."
+
+#: codestyling-localization.php:1129
+msgid "WordPress Localization"
+msgstr "Lokalisering af WordPress"
+
+#: codestyling-localization.php:1129
+msgid "Localization"
+msgstr "Lokalisering"
+
+#: codestyling-localization.php:1142
+msgid "Manage Language Files"
+msgstr "Håndtér Sprogfiler"
+
+#: codestyling-localization.php:1145
+msgid "All Translations"
+msgstr "Alle Oversættelser"
+
+#: codestyling-localization.php:1152
+msgid "μ Plugins"
+msgstr "μ Plugins"
+
+#: codestyling-localization.php:1156
+msgid "Plugins"
+msgstr "Plugins"
+
+#: codestyling-localization.php:1159
+msgid "Themes"
+msgstr "Temaer"
+
+#: codestyling-localization.php:1172
+msgid "Type"
+msgstr "Type"
+
+#: codestyling-localization.php:1173
+#: codestyling-localization.php:1200
+#: codestyling-localization.php:1222
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: codestyling-localization.php:1174
+msgid "Languages"
+msgstr "Sprog"
+
+#: codestyling-localization.php:1185
+msgid "Textdomain"
+msgstr "Tekstdomæne"
+
+#: codestyling-localization.php:1186
+msgid "defined by constant"
+msgstr "defineret ved konstanter"
+
+#: codestyling-localization.php:1192
+#: codestyling-localization.php:1214
+msgid "Version"
+msgstr "Version"
+
+#: codestyling-localization.php:1196
+#: codestyling-localization.php:1218
+msgid "State"
+msgstr "Tilstand"
+
+#: codestyling-localization.php:1205
+msgid "<strong>ATTENTION</strong>: The path of translation files is ambiguous, please select the language file folder!"
+msgstr "<strong>BEMÆRK:</strong> Stien til oversættelsefilerne er tvetydig; du skal vælge mappe til sprogfilerne!"
+
+#: codestyling-localization.php:1211
+msgid "by"
+msgstr "af"
+
+#: codestyling-localization.php:1231
+msgid "The original US version doesn't contain the language directory."
+msgstr "Den originale amerikanske version indeholder ikke sprogmappen."
+
+#: codestyling-localization.php:1233
+msgid "try to create the WordPress language directory"
+msgstr "forsøg at skabe sprogmappe til WordPress"
+
+#: codestyling-localization.php:1236
+msgid "or create the missing directory using FTP Access as:"
+msgstr "eller opret den manglende mappe ved hjælp af FTP-adgang som:"
+
+#: codestyling-localization.php:1241
+msgid "Available Directories:"
+msgstr "Tilgængelige mapper:"
+
+#: codestyling-localization.php:1256
+#: codestyling-localization.php:1439
+msgid "Add New Language"
+msgstr "Tilføj nyt sprog"
+
+#: codestyling-localization.php:1261
+msgid "Language"
+msgstr "Sprog"
+
+#: codestyling-localization.php:1262
+msgid "Permissions"
+msgstr "Tilladelser"
+
+#: codestyling-localization.php:1263
+#: codestyling-localization.php:1378
+msgid "Actions"
+msgstr "Handlinger"
+
+#: codestyling-localization.php:1272
+#: codestyling-localization.php:1473
+msgid "Locale"
+msgstr "Locale"
+
+#: codestyling-localization.php:1278
+#: codestyling-localization.php:1283
+#: codestyling-localization.php:1481
+msgid "-n.a.-"
+msgstr " - "
+
+#: codestyling-localization.php:1288
+#: codestyling-localization.php:1485
+#: codestyling-localization.php:1796
+msgid "Edit"
+msgstr "Redigér"
+
+#: codestyling-localization.php:1290
+#: codestyling-localization.php:1487
+msgid "Rescan"
+msgstr "Scan igen"
+
+#: codestyling-localization.php:1292
+#: codestyling-localization.php:1489
+msgid "Delete"
+msgstr "Slet"
+
+#: codestyling-localization.php:1306
+msgid "Translate Language File"
+msgstr "Oversæt sprogfil"
+
+#: codestyling-localization.php:1306
+msgid "back to main page &raquo;"
+msgstr "Tilbage til forsiden &raquo;"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1639
+#: codestyling-localization.php:2134
+msgid "File:"
+msgstr "Fil:"
+
+#: codestyling-localization.php:1308
+#: codestyling-localization.php:1320
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "ukendt"
+
+#: codestyling-localization.php:1311
+msgid "Full Catalog"
+msgstr "Hele kataloget"
+
+#: codestyling-localization.php:1312
+msgid "Plural Forms"
+msgstr "Flertalsformer"
+
+#: codestyling-localization.php:1313
+msgid "No Translation"
+msgstr "Ingen oversættelse"
+
+#: codestyling-localization.php:1314
+msgid "With Comment"
+msgstr "Med kommentar"
+
+#: codestyling-localization.php:1315
+msgid "Search Result"
+msgstr "Søgeresultat"
+
+#: codestyling-localization.php:1316
+msgid "Expression Result"
+msgstr "Resultat af udtryk"
+
+#: codestyling-localization.php:1319
+msgid "generate mo-file"
+msgstr "generér mo-fil"
+
+#: codestyling-localization.php:1320
+msgid "last file generation at:"
+msgstr "Fil senest genereret:"
+
+#: codestyling-localization.php:1322
+msgid "Page Size"
+msgstr "Sidestørrelse"
+
+#: codestyling-localization.php:1334
+#: codestyling-localization.php:1756
+msgid "&laquo; Previous"
+msgstr "&laquo; Forrige"
+
+#: codestyling-localization.php:1339
+#: codestyling-localization.php:1763
+msgid "Next &raquo;"
+msgstr "Næste &raquo;"
+
+#: codestyling-localization.php:1347
+msgid "Infos"
+msgstr "Info"
+
+#: codestyling-localization.php:1351
+#: codestyling-localization.php:2099
+msgid "Original:"
+msgstr "Original:"
+
+#: codestyling-localization.php:1355
+#: codestyling-localization.php:1370
+msgid "non case-sensitive"
+msgstr "skelner ikke små/store bogstaver"
+
+#: codestyling-localization.php:1366
+#: codestyling-localization.php:2102
+#: codestyling-localization.php:2104
+msgid "Translation:"
+msgstr "Oversættelse:"
+
+#: codestyling-localization.php:1382
+msgid "Please wait, file content presently being loaded ..."
+msgstr "Vent venligst, filindholdet hentes ..."
+
+#: codestyling-localization.php:1390
+#: codestyling-localization.php:2063
+msgid "Edit Catalog Entry"
+msgstr "Redigér opslag i katalog"
+
+#: codestyling-localization.php:1391
+msgid "close"
+msgstr "luk"
+
+#: codestyling-localization.php:1524
+msgid "Confirm Delete Language"
+msgstr "Bekræft sletning af sprog"
+
+#: codestyling-localization.php:1589
+msgid "Rescanning PHP Source Files"
+msgstr "Skanner PHP-kildefilerne igen ..."
+
+#: codestyling-localization.php:1614
+#: codestyling-localization.php:1644
+msgid "finished"
+msgstr "færdig"
+
+#: codestyling-localization.php:1694
+msgid "Access Error"
+msgstr "Adgangsfejl"
+
+#: codestyling-localization.php:1771
+msgid "Comment:"
+msgstr "Kommentar:"
+
+#: codestyling-localization.php:1773
+msgid "Files:"
+msgstr "Filer:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2087
+msgid "Singular:"
+msgstr "Ental:"
+
+#: codestyling-localization.php:1782
+#: codestyling-localization.php:2089
+msgid "Plural:"
+msgstr "Flertal:"
+
+#: codestyling-localization.php:1785
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2076
+#: codestyling-localization.php:2081
+msgid "Plural Index Result ="
+msgstr "Indeksresultat for flertal ="
+
+#: codestyling-localization.php:1797
+msgid "Copy"
+msgstr "Kopiér"
+
+#: codestyling-localization.php:1913
+msgid "Extended Expression Search"
+msgstr "Søgning med udvidede udtryk"
+
+#: codestyling-localization.php:1915
+msgid "Expression:"
+msgstr "Udtryk:"
+
+#: codestyling-localization.php:1917
+msgid "Examples: <small>Please refer to official Perl regular expression descriptions</small>"
+msgstr "Eksempler: <small>Der henvises til de officielle beskrivelser af regulære udtryk i Perl</small>"
+
+#: codestyling-localization.php:1922
+msgid "Search"
+msgstr "Søg"
+
+#: codestyling-localization.php:2070
+#: codestyling-localization.php:2073
+#: codestyling-localization.php:2104
+msgid "translate with Google API"
+msgstr "oversætte med Google API"
+
+#: codestyling-localization.php:2091
+msgid "Plural Index Calculation:"
+msgstr "Beregning af indeks for flertal"
+
+#: codestyling-localization.php:2094
+#: codestyling-localization.php:2108
+msgid "Save"
+msgstr "Gem"
+
+#: includes/js-help-perlreg.php:4
+msgid "Component|pcre"
+msgstr "Komponent|pcre"
+
+#: includes/js-help-perlreg.php:5
+msgid "Example|pcre"
+msgstr "Eksempel | pcre"
+
+#: includes/js-help-perlreg.php:6
+msgid "Description|pcre"
+msgstr "Beskrivelse | pcre"
+
+#: includes/js-help-perlreg.php:12
+#: includes/js-help-perlreg.php:17
+#: includes/js-help-perlreg.php:22
+#: includes/js-help-perlreg.php:27
+#: includes/js-help-perlreg.php:32
+#: includes/js-help-perlreg.php:37
+#: includes/js-help-perlreg.php:42
+#: includes/js-help-perlreg.php:47
+#: includes/js-help-perlreg.php:52
+#: includes/js-help-perlreg.php:112
+#: includes/js-help-perlreg.php:117
+#: includes/js-help-perlreg.php:122
+#: includes/js-help-perlreg.php:127
+msgid "out|pcre"
+msgstr "ud | pcre"
+
+#: includes/js-help-perlreg.php:13
+msgid "matches \"out\", but also \"timeout\", \"outbreak\", \"Route\" and \"gouty\".|pcre"
+msgstr "matcher \"ud\", men også \"timeout\", \"udbrud\", \"brud\" and \"brudgom\".|pcre"
+
+#: includes/js-help-perlreg.php:18
+msgid "matches \"out\" at start of string like \"out\", \"outbreak\", as long as this are the first words at string.|pcre"
+msgstr "matcher \"ud\" i begyndelsen af en streng som f.eks.  \"ud\", \"udbrud\", så længe dette er de første tegn i strengen.|pcre"
+
+#: includes/js-help-perlreg.php:23
+msgid "matches \"out\" at end of string like \"out\", \"timeout\" and \"burnout\" as long as this are the last words at string.|pcre"
+msgstr "matcher \"ud\" i slutningen af en streng som f.eks. \"ud\", \"nedbrud\" and \"opbrud\", så længe dette er de sidste tegn i strengen.|pcre"
+
+#: includes/js-help-perlreg.php:28
+msgid "matches \"ou\", \"out\", \"outt\" and \"outttttt\", the char prior to asterisk can be repeated 0 to unlimited times.|pcre"
+msgstr "matcher \"ud\", \"udb\", \"udbr\" and \"udbrrrrr\", tegnet inden asterisken kan gentages fra 0 til utallige gange.|pcre"
+
+#: includes/js-help-perlreg.php:33
+msgid "matches \"outt\" and \"outttt\", the char prior to plus char have to be repeated at least one time or more often.|pcre"
+msgstr "matcher \"udbb\" and \"udbbbb\", tegnet foran plustegnet skal være gentaget mindst én gang.|pcre"
+
+#: includes/js-help-perlreg.php:38
+msgid "matches \"rout\" and \"gout\", any char can be placed at this position.|pcre"
+msgstr "matcher \"tud\" and \"brud\", et hvilket som helst tegn kan stå på denne position.|pcre"
+
+#: includes/js-help-perlreg.php:43
+msgid "matches \"timeout\" and \"Fallout\", any char sequence at this position. Is a combination of any char and 1 but upto many times.|pcre"
+msgstr "matcher \"nedbrud\" and \"opbrud\", en hvilket som helst tegnsekvens på denne position. Det er en kombination af ethvert tegn og 1, men op til mange gange.|pcre"
+
+#: includes/js-help-perlreg.php:48
+msgid "matches \"out\" as single word. \b means word break.|pcre"
+msgstr "matcher \"ud\" som et enkelt ord. \b betyder mellemrum mellem ord.|pcre"
+
+#: includes/js-help-perlreg.php:53
+msgid "matches \"out\" only inside words, like \"Route\" or \"gouty\". \B means not word break.|pcre"
+msgstr "matcher \"ud\", men kun inde i ord, som f.eks. \"adjudant\" eller \"forstudium\". \B betyder at ordet ikke må være delt.|pcre"
+
+#: includes/js-help-perlreg.php:58
+msgid "matches any number. \d means a numerical digit (0 to 9)|pcre"
+msgstr "matcher alle tal. \d betyder et numerisk tegn (0 til 9) | pcre"
+
+#: includes/js-help-perlreg.php:63
+msgid "matches \"-out\" at \"3-out\", any non number.|pcre"
+msgstr "matches \"-ud\" i \"3-ud\", ethvert tegn, der ikke er et tal.|pcre"
+
+#: includes/js-help-perlreg.php:68
+msgid "matches form feed char.|pcre"
+msgstr "matcher form feed CHAR. | pcre"
+
+#: includes/js-help-perlreg.php:73
+msgid "matches line feed char.|pcre"
+msgstr "matcher linjeskift CHAR. | pcre"
+
+#: includes/js-help-perlreg.php:78
+msgid "matches carriage return char.|pcre"
+msgstr "matcher returtegn CHAR. | pcre"
+
+#: includes/js-help-perlreg.php:83
+msgid "matches tabulator char.|pcre"
+msgstr "matcher tabulator CHAR. | pcre"
+
+#: includes/js-help-perlreg.php:88
+msgid "matches vertical tabulator char.|pcre"
+msgstr "matcher vertikal tabulator CHAR. | pcre"
+
+#: includes/js-help-perlreg.php:93
+msgid ""
+"matches any kind of whitespace like \f, \\n"
+", \t, \v and space char.|pcre"
+msgstr ""
+"matcher alle slags formattegn (\\"whitespace\\") så som \f, \\n"
+", \t, \v and mellemrumstegnet.| pcre"
+
+#: includes/js-help-perlreg.php:98
+msgid "matches any char, that is not a whitespace char.|pcre"
+msgstr "matcher alle tegn, der ikke er formatkoder (\\"whitespace CHAR\\"). | pcre"
+
+#: includes/js-help-perlreg.php:103
+msgid "matches any alphanumerical char and underscore (typical for programming syntax).|pcre"
+msgstr "matcher alle alfanumeriske tegn og understregning (typisk for programmeringssyntaks). | pcre"
+
+#: includes/js-help-perlreg.php:108
+msgid "matches any char, that is not alphanumerical char and underscore (typical for illegal char detection at programming).|pcre"
+msgstr "matcher alle tegn, som ikke er alfanumeriske tegn og understregning (typisk, når man skal opdage ulovlige CHARs i programmering). | pcre"
+
+#: includes/js-help-perlreg.php:113
+msgid "matches \"out\" and remembers matches internally. Upto 9 brackets are allowed per expression.|pcre"
+msgstr "matcher \"ud\" og husker matches internt. Op til 9 parenteser er tilladt per udtryk. | Pcre"
+
+#: includes/js-help-perlreg.php:118
+msgid "matches \"aus\" as often it is contained at string. The match positions will be stored internally as array.|pcre"
+msgstr "matcher \"ud\" så ofte det er indeholdt i strengen. Matchpositionerne vil blive gemt internt som arrays. | Pcre"
+
+#: includes/js-help-perlreg.php:123
+msgid "matches \"out\", \"Out\" and \"OUT\", not case-sensitive match.|pcre"
+msgstr "matcher \"ud\", \"Ud\" og \"UD\", der skelnes ikke mellem store og små bogstaver.|pcre"
+
+#: includes/js-help-perlreg.php:128
+msgid "matches \"out\", as ofter occurs (g) and also non case-sensitive.|pcre"
+msgstr "matcher \"ud\", så ofte det forekommer (g) og skelner ikke mellem små og store bogstaver.|pcre"
+

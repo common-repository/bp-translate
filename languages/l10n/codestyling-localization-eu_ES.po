@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CodeStyling Localization v1.55\n"
+"PO-Revision-Date: 2008-10-16 20:17+0200\n"
+"Last-Translator: admin <basaurigorria@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Basque\n"
+"X-Poedit-Country: BASQUE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: codestyling-localization.php:145
+msgid "required"
+msgstr "derrigorrezkoa"
+
+#: codestyling-localization.php:145
+msgid "actual"
+msgstr "oraingoa"
+
+#: codestyling-localization.php:265
+msgid "You do not have permission to manage translation files."
+msgstr "Ez duzu baimenik itzulpen fitxategia kudeatzeko."
+
+#: codestyling-localization.php:273
+#: codestyling-localization.php:969
+msgid "WordPress"
+msgstr "WordPress"
+
+#: codestyling-localization.php:278
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+#: codestyling-localization.php:994
+msgid "activated"
+msgstr "gaitua"
+
+#: codestyling-localization.php:292
+#: codestyling-localization.php:371
+#: codestyling-localization.php:381
+#: codestyling-localization.php:426
+#: codestyling-localization.php:734
+#: codestyling-localization.php:777
+#: codestyling-localization.php:816
+#: codestyling-localization.php:906
+#: includes/class-translationfile.php:438
+msgid "m/d/Y H:i:s"
+msgstr "Y-m-d H:i:s"
+
+#: codestyling-localization.php:307
+msgid "Plugin"
+msgstr "Plugin"
+
+#: codestyling-localization.php:312
+#: codestyling-localization.php:407
+msgid "deactivated"
+msgstr "ezgaitua"
+
+#: codestyling-localization.php:402
+msgid "Theme"
+msgstr "Gaia"
+
+#: codestyling-localization.php:520
+#: codestyling-localization.php:613
+msgid "Project-Id-Version"
+msgstr "Proiektu-Id-Bertsioa"
+
+#: codestyling-localization.php:524
+msgid "Creation-Date"
+msgstr "Sortze Data"
+
+#: codestyling-localization.php:528
+msgid "Last-Translator"
+msgstr "Azkeneko Itzultzailea"
+
+#: codestyling-localization.php:563
+msgid "create po-file"
+msgstr "po fitxategia sortu"
+
+#: codestyling-localization.php:574
+#, php-format
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr "\"<strong>%s</strong>\"-tik <strong>%s</strong> iraunkorki ezabatuko dituzu.<br/>Seguru zaude fitxategi hauek ezabatzeaz?"
+
+#: codestyling-localization.php:575
+msgid "delete files"
+msgstr "fitxategiak ezabatu"
+
+#: codestyling-localization.php:617
+msgid "Language Target"
+msgstr "Hizkuntza helburua"
+
+#: codestyling-localization.php:622
+msgid "Affected Total Files"
+msgstr "Ikututako fitxategi guztiak"
+
+#: codestyling-localization.php:627
+msgid "Scanning Progress"
+msgstr "Eskaneatze progresua"
+
+#: codestyling-localization.php:635
+msgid "scan now"
+msgstr "eskaneatu orain"
+
+#: codestyling-localization.php:635
+msgid "Please standby, files presently being scanned ..."
+msgstr "Itxaron mesedez, fitxategiak eskaneatzen ari dira .."
+
+#: codestyling-localization.php:719
+#, php-format
+msgid "You do not have the permission to create the file '%s'."
+msgstr "Ez duzu baimenik '%s' fitxategia sortzeko."
+
+#: codestyling-localization.php:727
+#: codestyling-localization.php:760
+#: codestyling-localization.php:1046
+#, php-format
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] "Hizkuntza <strong>%d</strong>"
+msgstr[1] "<strong>%d</strong> hizkuntza"
+
+#: codestyling-localization.php:747
+#: codestyling-localization.php:748
+#, php-format
+msgid "You do not have the permission to delete the file '%s'."
+msgstr "Ez duzu baimenik '%s' fitxategia ezabatzeko."
+
+#: codestyling-localization.php:782
+#: codestyling-localization.php:866
+#: codestyling-localization.php:899
+#, php-format
+msgid "You do not have the permission to write the file '%s'."
+msgstr "Ez duzu baimenik '%s' fitxategia idazteko."
+
+#: codestyling-localization.php:788
+#: codestyling-localization.php:879
+#: codestyling-localization.php:892
+#, php-format
+msgid "You do not have the permission to read the file '%s'."
+msgstr "Ez duzu baimenik '%s' fitxategia irakuzteko."
+
+#: codestyling-localization.php:805
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr "Serbitzari debekua: fitxategi baimenen aldaketa debekatua. "
+
+#: codestyling-localization.php:808
+#, php-format
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr "Ez duzu baimenik existitzen ez den '%s' fitxategiaren baimenak aldatzeko."
+
+#: codestyling-localization.php:852
+msgid "Sorry, Google Translation is not available."
+msgstr "Barkatu, Google Translation ez dago erabilgarri."
+
+#: codestyling-localization.php:926
+msgid "WordPress Localization"
+msgstr "Wordpress Hizkuntza"
+
+#: codestyling-localization.php:926
+msgid "Localization"
+msgstr "Hizkuntza"
+
+#: codestyling-localization.php:963
+msgid "Manage Language Files"
+msgstr "Hizkuntza Fitxategia Kudeatu"
+
+#: codestyling-localization.php:966
+msgid "All Translations"
+msgstr "Itzulpen guztiak"
+
+#: codestyling-localization.php:972
+msgid "Plugins"
+msgstr "Plugin-ak"
+
+#: codestyling-localization.php:975
+msgid "Themes"
+msgstr "Gaiak"
+
+#: codestyling-localization.php:987
+msgid "Type"
+msgstr "Mota"
+
+#: codestyling-localization.php:988
+#: codestyling-localization.php:1015
+#: codestyling-localization.php:1032
+msgid "Description"
+msgstr "Deskribapena"
+
+#: codestyling-localization.php:989
+msgid "Languages"
+msgstr "Hizkuntzak"
+
+#: codestyling-localization.php:1000
+msgid "Textdomain"
+msgstr "Textdomain"
+
+#: codestyling-localization.php:1001
+msgid "defined by constant"
+msgstr "konstante bategaitk definitua"
+
+#: codestyling-localization.php:1007
+#: codestyling-localization.php:1024
+msgid "Version"
+msgstr "Bertsioa"
+
+#: codestyling-localization.php:1011
+#: codestyling-localization.php:1028
+msgid "State"
+msgstr "Estatua"
+
+#: codestyling-localization.php:1021
+msgid "by"
+msgstr "(e)k"
+
+#: codestyling-localization.php:1044
+#: codestyling-localization.php:1204
+msgid "Add New Language"
+msgstr "Hizkuntza Berria Gehitu"
+
+#: codestyling-localization.php:1049
+msgid "Language"
+msgstr "Hizkuntza"
+
+#: codestyling-localization.php:1050
+msgid "Permissions"
+msgstr "Baimenak"
+
+#: codestyling-localization.php:1051
+#: codestyling-localization.php:1143
+msgid "Actions"
+msgstr "Ekintzak"
+
+#: codestyling-localization.php:1060
+#: codestyling-localization.php:1238
+msgid "Locale"
+msgstr "Hizkuntza"
+
+#: codestyling-localization.php:1066
+#: codestyling-localization.php:1071
+#: codestyling-localization.php:1246
+msgid "-n.a.-"
+msgstr "-n.a.-"
+
+#: codestyling-localization.php:1076
+#: codestyling-localization.php:1250
+#: codestyling-localization.php:1559
+msgid "Edit"
+msgstr "Editatu"
+
+#: codestyling-localization.php:1078
+#: codestyling-localization.php:1252
+msgid "Rescan"
+msgstr "Berreskaneatu"
+
+#: codestyling-localization.php:1080
+#: codestyling-localization.php:1254
+msgid "Delete"
+msgstr "Ezabatu"
+
+#: codestyling-localization.php:1092
+msgid "Translate Language File"
+msgstr "Hizkuntza Itzulpen Fitxategia"
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1404
+#: codestyling-localization.php:1842
+msgid "File:"
+msgstr "Fitxategia:"
+
+#: codestyling-localization.php:1094
+#: codestyling-localization.php:1105
+#: includes/class-translationfile.php:438
+msgid "unknown"
+msgstr "ezezaguna"
+
+#: codestyling-localization.php:1097
+msgid "Full Catalog"
+msgstr "Katalogo guztia"
+
+#: codestyling-localization.php:1098
+msgid "Plural Forms"
+msgstr "Forma pluralak"
+
+#: codestyling-localization.php:1099
+msgid "No Translation"
+msgstr "Itzulpen eza"
+
+#: codestyling-localization.php:1100
+msgid "With Comment"
+msgstr "Iruzkinarekin"
+
+#: codestyling-localization.php:1101
+msgid "Search Result"
+msgstr "Emaitza Bilatu"
+
+#: codestyling-localization.php:1104
+msgid "generate mo-file"
+msgstr "mo fitxategia sortu"
+
+#: codestyling-localization.php:1105
+msgid "last file generation at:"
+msgstr "fitxategiaren azken sortzea:"
+
+#: codestyling-localization.php:1107
+msgid "Page Size"
+msgstr "Orri tamaina"
+
+#: codestyling-localization.php:1119
+#: codestyling-localization.php:1519
+msgid "&laquo; Previous"
+msgstr "&laquo; Aurrekoak"
+
+#: codestyling-localization.php:1124
+#: codestyling-localization.php:1526
+msgid "Next &raquo;"
+msgstr "Urrengoak &raquo;"
+
+#: codestyling-localization.php:1132
+msgid "Infos"
+msgstr "Infoak"
+
+#: codestyling-localization.php:1134
+#: codestyling-localization.php:1807
+msgid "Original:"
+msgstr "Jatorrizkoa:"
+
+#: codestyling-localization.php:1139
+#: codestyling-localization.php:1810
+#: codestyling-localization.php:1812
+msgid "Translation:"
+msgstr "Hitzulpena:"
+
+#: codestyling-localization.php:1147
+msgid "Please wait, file content presently being loaded ..."
+msgstr "Itxaron mesedez, fitxategiaren edukia kargatzen ari da ..."
+
+#: codestyling-localization.php:1155
+#: codestyling-localization.php:1771
+msgid "Edit Catalog Entry"
+msgstr "Katalogoko Sarrerak Editatu"
+
+#: codestyling-localization.php:1156
+msgid "close"
+msgstr "itxi"
+
+#: codestyling-localization.php:1289
+msgid "Confirm Delete Language"
+msgstr "Hizkuntza Ezabaketa Berretsi"
+
+#: codestyling-localization.php:1354
+msgid "Rescanning PHP Source Files"
+msgstr "PHP fitxategi kodea berreskaneatzen"
+
+#: codestyling-localization.php:1379
+#: codestyling-localization.php:1409
+msgid "finished"
+msgstr "amaitua"
+
+#: codestyling-localization.php:1457
+msgid "Access Error"
+msgstr "Sarrera Errorea"
+
+#: codestyling-localization.php:1534
+msgid "Comment:"
+msgstr "Iruzkina:"
+
+#: codestyling-localization.php:1536
+msgid "Files:"
+msgstr "Fitxategiak:"
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1795
+msgid "Singular:"
+msgstr "Singularra:"
+
+#: codestyling-localization.php:1545
+#: codestyling-localization.php:1797
+msgid "Plural:"
+msgstr "Plurala:"
+
+#: codestyling-localization.php:1548
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1784
+#: codestyling-localization.php:1789
+msgid "Plural Index Result ="
+msgstr "Indeze pluralaren emaitza ="
+
+#: codestyling-localization.php:1560
+msgid "Copy"
+msgstr "Kopiatu"
+
+#: codestyling-localization.php:1778
+#: codestyling-localization.php:1781
+#: codestyling-localization.php:1812
+msgid "translate with Google API"
+msgstr "Google APIrekin itzuli"
+
+#: codestyling-localization.php:1799
+msgid "Plural Index Calculation:"
+msgstr "Indize pluralaren kalkulua:"
+
+#: codestyling-localization.php:1802
+#: codestyling-localization.php:1816
+msgid "Save"
+msgstr "Gorde"
+

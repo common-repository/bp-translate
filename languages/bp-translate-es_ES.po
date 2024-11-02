@@ -1,0 +1,1682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/qtranslate\n"
+"POT-Creation-Date: 2009-02-20 00:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: bp-translate-admin.php:9
+#@ bp_translate
+msgid "Language Management"
+msgstr ""
+
+#: bp-translate-admin.php:8
+#: bp-translate-admin.php:9
+#: bp-translate-admin.php:560
+#: bp-translate-functions.php:948
+#: bp-translate-pomo.php:1243
+#@ bp_translate
+msgid "Languages"
+msgstr ""
+
+#: bp-translate-admin.php:17
+#@ bp_translate
+msgid "language_name"
+msgstr ""
+
+#: bp-translate-admin.php:29
+#@ bp_translate
+msgid "Language Code"
+msgstr ""
+
+#: bp-translate-admin.php:31
+#@ bp_translate
+msgid "2-Letter <a href=\"http://www.w3.org/WAI/ER/IG/ert/iso639.htm#2letter\">ISO Language Code</a> for the Language you want to insert. (Example: en)"
+msgstr ""
+
+#: bp-translate-admin.php:34
+#@ bp_translate
+msgid "Flag"
+msgstr ""
+
+#: bp-translate-admin.php:59
+#@ bp_translate
+msgid "Incorrect Flag Image Path! Please correct it!"
+msgstr ""
+
+#: bp-translate-admin.php:62
+#@ bp_translate
+msgid "Choose the corresponding country flag for language. (Example: gb.png)"
+msgstr ""
+
+#: bp-translate-admin.php:75
+#: bp-translate-admin.php:164
+#@ bp_translate
+msgid "Name"
+msgstr ""
+
+#: bp-translate-admin.php:77
+#@ bp_translate
+msgid "The Name of the language, which will be displayed on the site. (Example: English)"
+msgstr ""
+
+#: bp-translate-admin.php:80
+#: bp-translate-pomo.php:1340
+#: bp-translate-pomo.php:1576
+#@ bp_translate
+msgid "Locale"
+msgstr ""
+
+#: bp-translate-admin.php:84
+#@ bp_translate
+msgid "You will need to install the .mo file for this language."
+msgstr ""
+
+#: bp-translate-admin.php:88
+#@ bp_translate
+msgid "Date Format"
+msgstr ""
+
+#: bp-translate-admin.php:90
+#, php-format
+#@ bp_translate
+msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> (use %q for day suffix (st,nd,rd,th)) or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %A %B %e%q, %Y)"
+msgstr ""
+
+#: bp-translate-admin.php:93
+#@ bp_translate
+msgid "Time Format"
+msgstr ""
+
+#: bp-translate-admin.php:95
+#, php-format
+#@ bp_translate
+msgid "Depending on your Date / Time Conversion Mode, you can either enter a <a href=\"http://www.php.net/manual/function.strftime.php\">strftime</a> or <a href=\"http://www.php.net/manual/function.date.php\">date</a> format. This field is optional. (Example: %I:%M %p)"
+msgstr ""
+
+#: bp-translate-admin.php:98
+#@ bp_translate
+msgid "Not Available Message"
+msgstr ""
+
+#: bp-translate-admin.php:101
+#, php-format
+#@ bp_translate
+msgid "Message to display if post is not available in the requested language. (Example: Sorry, this entry is only available in %LANG:, : and %.)"
+msgstr ""
+
+#: bp-translate-admin.php:102
+#, php-format
+#@ bp_translate
+msgid "%LANG:&lt;normal_seperator&gt;:&lt;last_seperator&gt;% generates a list of languages seperated by &lt;normal_seperator&gt; except for the last one, where &lt;last_seperator&gt; will be used instead."
+msgstr ""
+
+#: bp-translate-admin.php:165
+#: deprecated/bp_translate_services.php:279
+#@ bp_translate
+msgid "Action"
+msgstr ""
+
+#: bp-translate-admin.php:202
+#@ bp_translate
+msgid "Gettext databases updated."
+msgstr ""
+
+#: bp-translate-admin.php:207
+#@ bp_translate
+msgid "The Language must have a Not-Available Message!"
+msgstr ""
+
+#: bp-translate-admin.php:208
+#@ bp_translate
+msgid "The Language must have a Locale!"
+msgstr ""
+
+#: bp-translate-admin.php:209
+#@ bp_translate
+msgid "The Language must have a name!"
+msgstr ""
+
+#: bp-translate-admin.php:210
+#@ bp_translate
+msgid "Language Code has to be 2 characters long!"
+msgstr ""
+
+#: bp-translate-admin.php:214
+#: bp-translate-admin.php:220
+#@ bp_translate
+msgid "There is already a language with the same Language Code!"
+msgstr ""
+
+#: bp-translate-admin.php:321
+#@ bp_translate
+msgid "Language is already enabled or invalid!"
+msgstr ""
+
+#: bp-translate-admin.php:326
+#@ bp_translate
+msgid "Cannot disable Default Language!"
+msgstr ""
+
+#: bp-translate-admin.php:329
+#: bp-translate-admin.php:336
+#: bp-translate-admin.php:352
+#@ bp_translate
+msgid "No such language!"
+msgstr ""
+
+#: bp-translate-admin.php:332
+#@ bp_translate
+msgid "Language is already disabled!"
+msgstr ""
+
+#: bp-translate-admin.php:340
+#@ bp_translate
+msgid "Language is already first!"
+msgstr ""
+
+#: bp-translate-admin.php:346
+#: bp-translate-admin.php:362
+#@ bp_translate
+msgid "New order saved."
+msgstr ""
+
+#: bp-translate-admin.php:356
+#@ bp_translate
+msgid "Language is already last!"
+msgstr ""
+
+#: bp-translate-admin.php:373
+#@ bp_translate
+msgid "Options saved."
+msgstr ""
+
+#: bp-translate-admin.php:378
+#, php-format
+#@ bp_translate
+msgid "Could not write to \"%s\", Gettext Databases could not be downloaded!"
+msgstr ""
+
+#: bp-translate-admin.php:400
+#@ bp_translate
+msgid "Edit Language"
+msgstr ""
+
+#: bp-translate-admin.php:403
+#@ bp_translate
+msgid "Save Changes &raquo;"
+msgstr ""
+
+#: bp-translate-admin.php:410
+#@ bp_translate
+msgid "General Settings"
+msgstr ""
+
+#: bp-translate-admin.php:413
+#@ bp_translate
+msgid "Default Language / Order"
+msgstr ""
+
+#: bp-translate-admin.php:415
+#@ bp_translate
+msgid "Default Language"
+msgstr ""
+
+#: bp-translate-admin.php:431
+#, php-format
+#@ bp_translate
+msgid "Choose the default language of your blog. This is the language which will be shown on %s. You can also change the order the languages by clicking on the arrows above."
+msgstr ""
+
+#: bp-translate-admin.php:436
+#@ bp_translate
+msgid "Hide Untranslated Content"
+msgstr ""
+
+#: bp-translate-admin.php:438
+#@ bp_translate
+msgid "Hide Content which is not available for the selected language."
+msgstr ""
+
+#: bp-translate-admin.php:440
+#@ bp_translate
+msgid "When checked, posts will be hidden if the content is not available for the selected language. If unchecked, a message will appear showing all the languages the content is available in."
+msgstr ""
+
+#: bp-translate-admin.php:445
+#@ bp_translate
+msgid "Detect Browser Language"
+msgstr ""
+
+#: bp-translate-admin.php:447
+#@ bp_translate
+msgid "Detect the language of the browser and redirect accordingly."
+msgstr ""
+
+#: bp-translate-admin.php:449
+#@ bp_translate
+msgid "When the frontpage is visited via bookmark/external link/type-in, the visitor will be forwarded to the correct URL for the language specified by his browser."
+msgstr ""
+
+#: bp-translate-admin.php:453
+#@ bp_translate
+msgid "Advanced Settings"
+msgstr ""
+
+#: bp-translate-admin.php:453
+#: deprecated/bp_translate_services.php:287
+#@ bp_translate
+msgid "Show"
+msgstr ""
+
+#: bp-translate-admin.php:456
+#: bp-translate-admin.php:458
+#@ bp_translate
+msgid "URL Modification Mode"
+msgstr ""
+
+#: bp-translate-admin.php:459
+#@ bp_translate
+msgid "Use Query Mode (?lang=en)"
+msgstr ""
+
+#: bp-translate-admin.php:460
+#@ bp_translate
+msgid "Use Pre-Path Mode (Default, puts /en/ in front of URL)"
+msgstr ""
+
+#: bp-translate-admin.php:461
+#@ bp_translate
+msgid "Use Pre-Domain Mode (uses http://en.yoursite.com)"
+msgstr ""
+
+#: bp-translate-admin.php:463
+#@ bp_translate
+msgid "Pre-Path and Pre-Domain mode will only work with mod_rewrite/pretty permalinks. Additional Configuration is needed for Pre-Domain mode!"
+msgstr ""
+
+#: bp-translate-admin.php:467
+#@ bp_translate
+msgid "Flag Image Path"
+msgstr ""
+
+#: bp-translate-admin.php:475
+#@ bp_translate
+msgid "Ignore Links"
+msgstr ""
+
+#: bp-translate-admin.php:479
+#@ bp_translate
+msgid "Don't convert Links to files of the given file types. (Default: gif,jpg,jpeg,png,pdf,swf,tif,rar,zip,7z,mpg,divx,mpeg,avi,css,js)"
+msgstr ""
+
+#: bp-translate-admin.php:483
+#@ bp_translate
+msgid "Update Gettext Databases"
+msgstr ""
+
+#: bp-translate-admin.php:485
+#@ bp_translate
+msgid "Automatically check for .mo-Database Updates of installed languages."
+msgstr ""
+
+#: bp-translate-admin.php:487
+#@ bp_translate
+msgid "Update Gettext databases now."
+msgstr ""
+
+#: bp-translate-admin.php:493
+#@ bp_translate
+msgid "Date / Time Conversion"
+msgstr ""
+
+#: bp-translate-admin.php:495
+#@ bp_translate
+msgid "Use emulated date function."
+msgstr ""
+
+#: bp-translate-admin.php:496
+#@ bp_translate
+msgid "Use emulated date function and replace formats with the predefined formats for each language."
+msgstr ""
+
+#: bp-translate-admin.php:497
+#@ bp_translate
+msgid "Use strftime instead of date."
+msgstr ""
+
+#: bp-translate-admin.php:498
+#@ bp_translate
+msgid "Use strftime instead of date and replace formats with the predefined formats for each language."
+msgstr ""
+
+#: bp-translate-admin.php:499
+#@ bp_translate
+msgid "Depending on the mode selected, additional customizations of the theme may be needed."
+msgstr ""
+
+#: bp-translate-admin.php:509
+#@ bp_translate
+msgid "Also delete Translations for Categories/Tags/Link Categories."
+msgstr ""
+
+#: bp-translate-admin.php:515
+#@ bp_translate
+msgid "Convert Database"
+msgstr ""
+
+#: bp-translate-admin.php:522
+#@ bp_translate
+msgid "Debugging Information"
+msgstr ""
+
+#: bp-translate-admin.php:553
+#: bp-translate-settings.php:144
+#@ bp_translate
+#@ buddypress
+msgid "Save Changes"
+msgstr ""
+
+#: bp-translate-admin.php:584
+#@ bp_translate
+msgid "Disable"
+msgstr ""
+
+#: bp-translate-admin.php:584
+#@ bp_translate
+msgid "Enable"
+msgstr ""
+
+#: bp-translate-admin.php:585
+#: bp-translate-pomo.php:1356
+#: bp-translate-pomo.php:1588
+#: bp-translate-pomo.php:1974
+#@ bp_translate
+msgid "Edit"
+msgstr ""
+
+#: bp-translate-admin.php:586
+#@ bp_translate
+msgid "Default"
+msgstr ""
+
+#: bp-translate-admin.php:586
+#: bp-translate-pomo.php:1360
+#: bp-translate-pomo.php:1592
+#@ bp_translate
+msgid "Delete"
+msgstr ""
+
+#: bp-translate-admin.php:598
+#@ bp_translate
+msgid "Add Language"
+msgstr ""
+
+#: bp-translate-admin.php:601
+#@ bp_translate
+msgid "Add Language &raquo;"
+msgstr ""
+
+#: bp-translate-functions.php:935
+#@ bp_translate
+msgid "Settings"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:30
+#@ bp_translate
+msgid "The language/s do not have a valid ISO 639-1 representation."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:31
+#@ bp_translate
+msgid "The language/s you used are not supported by the service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:32
+#@ bp_translate
+msgid "There is no such service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:33
+#@ bp_translate
+msgid "The system could not process your order."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:34
+#@ bp_translate
+msgid "There has been an error with the selected service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:35
+#@ bp_translate
+msgid "An unknown error occured with the selected service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:36
+#@ bp_translate
+msgid "The server returned a debugging message."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:138
+#, php-format
+#@ bp_translate
+msgid "<div>Translate to %s</div>"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:169
+#: deprecated/bp_translate_services.php:170
+#@ bp_translate
+msgid "Translate to"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:246
+#@ bp_translate
+msgid "Order deleted."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:250
+#@ bp_translate
+msgid "Status updated for all open orders."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:275
+#@ bp_translate
+msgid "Post Title"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:276
+#@ bp_translate
+msgid "Service"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:277
+#@ bp_translate
+msgid "Source Language"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:278
+#@ bp_translate
+msgid "Target Language"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:296
+#@ bp_translate
+msgid "Save after enabling to see more Configuration options."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:306
+#@ bp_translate
+msgid "Open Orders"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:328
+#, php-format
+#@ bp_translate
+msgid "Edit %s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:329
+#: deprecated/bp_translate_services.php:366
+#: deprecated/bp_translate_services.php:656
+#: deprecated/bp_translate_services.php:663
+#@ bp_translate
+msgid "Website"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:339
+#, php-format
+#@ bp_translate
+msgid "Current Status: %s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:348
+#@ bp_translate
+msgid "Deleting an open order doesn't cancel it. You will have to logon to the service homepage and cancel it there."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:350
+#@ bp_translate
+msgid "No open orders."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:356
+#@ bp_translate
+msgid "Service Configuration"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:366
+msgid "service_name"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:367
+msgid "service_description"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:456
+#, php-format
+#@ bp_translate
+msgid "Post with id \"%s\" not found!"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:464
+#@ bp_translate
+msgid "The requested Post has no content, no Translation possible."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:473
+#@ bp_translate
+msgid "The Post already has content for the selected target language. If a translation request is send, the current text for the target language will be overwritten."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:534
+#, php-format
+#@ bp_translate
+msgid "An error occured: %s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:536
+#, php-format
+#@ bp_translate
+msgid "Additional information: %s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:566
+#@ bp_translate
+msgid "Order successfully sent."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:567
+#@ bp_translate
+msgid "Your translation order has been successfully transfered to the selected service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:571
+#, php-format
+#@ bp_translate
+msgid "The service returned this message: %s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:575
+#@ bp_translate
+msgid "Feel free to choose an action:"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:577
+#@ bp_translate
+msgid "Translate this post to another language."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:578
+#@ bp_translate
+msgid "Translate a different post."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:579
+#@ bp_translate
+msgid "View all open orders."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:581
+#@ bp_translate
+msgid "View this post."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:606
+#, php-format
+#@ bp_translate
+msgid "Your article is available in multiple languages. If you do not want to translate from %1$s, you can switch to one of the following languages: %2$s"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:614
+#@ bp_translate
+msgid "Please choose the language you want to translate to:"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:626
+#@ bp_translate
+msgid "Continue"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:631
+#, php-format
+#@ bp_translate
+msgid "Please review your article and <a href=\"%s\">edit</a> it if needed."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:643
+#@ bp_translate
+msgid "Use the following Translation Service:"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:657
+#, php-format
+#@ bp_translate
+msgid "Cannot use this service, not all <a href=\"%s\">required fields</a> filled in for this service."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:672
+#@ bp_translate
+msgid "Request Translation"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:685
+msgid "Translate"
+msgstr ""
+
+#: bp-translate-pomo.php:1330
+#: bp-translate-settings.php:17
+#: bp-translate-settings.php:96
+#: bp-translate-widgets.php:15
+#@ bp_translate
+#@ bp-translate
+#@ buddypress
+msgid "Language"
+msgstr ""
+
+#: bp-translate-widgets.php:53
+#@ bp_translate
+msgid "Title:"
+msgstr ""
+
+#: bp-translate-widgets.php:54
+#@ bp_translate
+msgid "Hide Title:"
+msgstr ""
+
+#: bp-translate-widgets.php:55
+#@ bp_translate
+msgid "Display:"
+msgstr ""
+
+#: bp-translate-widgets.php:56
+#@ bp_translate
+msgid "Text only"
+msgstr ""
+
+#: bp-translate-widgets.php:57
+#@ bp_translate
+msgid "Image only"
+msgstr ""
+
+#: bp-translate-widgets.php:58
+#@ bp_translate
+msgid "Text and Image"
+msgstr ""
+
+#: bp-translate-widgets.php:59
+#@ bp_translate
+msgid "Dropdown Box"
+msgstr ""
+
+#: bp-translate-admin.php:637
+#: bp-translate-admin.php:645
+#@ bp_translate
+msgid "Category Name"
+msgstr ""
+
+#: bp-translate-admin.php:641
+#@ bp_translate
+msgid "Tag Name"
+msgstr ""
+
+#: bp-translate-admin.php:980
+#@ bp_translate
+msgid "Title"
+msgstr ""
+
+#: bp-translate-admin.php:10
+#@ bp_translate
+msgid "Localization Management"
+msgstr ""
+
+#: bp-translate-admin.php:10
+#: bp-translate-settings.php:119
+#@ bp_translate
+#@ buddypress
+msgid "Translations"
+msgstr ""
+
+#: bp-translate-admin.php:83
+#@ bp_translate
+msgid "PHP and WordPress Locale for the language. (Example: en_US)"
+msgstr ""
+
+#: bp-translate-admin.php:190
+#@ bp_translate
+msgid "BP Translate has been reset."
+msgstr ""
+
+#: bp-translate-admin.php:408
+#@ bp_translate
+msgid "Language Management and Configuration"
+msgstr ""
+
+#: bp-translate-admin.php:441
+#@ bp_translate
+msgid "This function will not work correctly if you installed BP Translate on a blog with existing entries. In this case you will need to take a look at \"Convert Database\" under \"Advanced Settings\"."
+msgstr ""
+
+#: bp-translate-admin.php:471
+#@ bp_translate
+msgid "Path to the flag images under wp-content, with trailing slash. (Default: plugins/bp-translate/images/flags/)"
+msgstr ""
+
+#: bp-translate-admin.php:489
+#@ bp_translate
+msgid "BP Translate will query the WordPress Localization Repository every week and download the latest Gettext Databases (.mo Files)."
+msgstr ""
+
+#: bp-translate-admin.php:503
+#@ bp_translate
+msgid "Reset BP Translate"
+msgstr ""
+
+#: bp-translate-admin.php:505
+#@ bp_translate
+msgid "Check this box and click Save Changes to reset all BP Translate settings."
+msgstr ""
+
+#: bp-translate-admin.php:507
+#@ bp_translate
+msgid "Yes, I really want to reset BP Translate."
+msgstr ""
+
+#: bp-translate-admin.php:511
+#@ bp_translate
+msgid "If something isn't working correctly, you can always try to reset all BP Translate settings. A Reset won't delete any posts but will remove all settings (including all languages added)."
+msgstr ""
+
+#: bp-translate-admin.php:517
+#, php-format
+#@ bp_translate
+msgid "If you have installed BP Translate for the first time on an installtion with existing posts, you can either go through all your posts manually and save them in the correct language or <a href=\"%s\">click here</a> to mark all existing posts as written in the default language."
+msgstr ""
+
+#: bp-translate-admin.php:518
+#@ bp_translate
+msgid "Be sure to make a full database backup before attempting database conversion."
+msgstr ""
+
+#: bp-translate-admin.php:591
+#@ bp_translate
+msgid "Enabling a language will cause BP Translate to update the Gettext-Database for the language, which can take a while depending on your server's connection speed."
+msgstr ""
+
+#: bp-translate-admin.php:656
+#: bp-translate-admin.php:772
+#@ bp_translate
+msgid "This version of BP Translate has not been tested with your WordPress version. To prevent WordPress from malfunctioning, the BP Translate Editor has been disabled. You can reenable it by <a href=\"javascript:bp_translate_editorInit();\" title=\"Activate BP Translate\" id=\"bp_translate_imsg_link\">clicking here</a> (may cause <b>data loss</b>!). </a>."
+msgstr ""
+
+#: bp-translate-classes.php:976
+#: bp-translate-pomo.php:232
+#: bp-translate-pomo.php:313
+#: bp-translate-pomo.php:323
+#: bp-translate-pomo.php:413
+#: bp-translate-pomo.php:474
+#: bp-translate-pomo.php:887
+#: bp-translate-pomo.php:945
+#: bp-translate-pomo.php:984
+#: bp-translate-pomo.php:1116
+#@ bp_translate
+msgid "m/d/Y H:i:s"
+msgstr ""
+
+#: bp-translate-classes.php:976
+#: bp-translate-pomo.php:1376
+#: bp-translate-pomo.php:1389
+#@ bp_translate
+msgid "unknown"
+msgstr ""
+
+#: bp-translate-functions.php:1214
+msgid "American English"
+msgstr ""
+
+#: bp-translate-functions.php:1218
+msgid "British English"
+msgstr ""
+
+#: bp-translate-functions.php:1228
+msgid "English"
+msgstr ""
+
+#: bp-translate-pomo.php:50
+#@ bp_translate
+msgid "required"
+msgstr ""
+
+#: bp-translate-pomo.php:50
+#@ bp_translate
+msgid "actual"
+msgstr ""
+
+#: bp-translate-pomo.php:198
+#@ bp_translate
+msgid "You do not have permission to manage translation files."
+msgstr ""
+
+#: bp-translate-pomo.php:208
+#: bp-translate-pomo.php:1224
+#@ bp_translate
+msgid "WordPress"
+msgstr ""
+
+#: bp-translate-pomo.php:214
+#: bp-translate-pomo.php:253
+#: bp-translate-pomo.php:360
+#: bp-translate-pomo.php:433
+#: bp-translate-pomo.php:1248
+#@ bp_translate
+msgid "activated"
+msgstr ""
+
+#: bp-translate-pomo.php:248
+#@ bp_translate
+msgid "Plugin"
+msgstr ""
+
+#: bp-translate-pomo.php:253
+#: bp-translate-pomo.php:433
+#@ bp_translate
+msgid "deactivated"
+msgstr ""
+
+#: bp-translate-pomo.php:355
+#@ bp_translate
+msgid "μ Plugin"
+msgstr ""
+
+#: bp-translate-pomo.php:428
+#@ bp_translate
+msgid "Theme"
+msgstr ""
+
+#: bp-translate-pomo.php:641
+#: bp-translate-pomo.php:735
+#@ bp_translate
+msgid "Project-Id-Version"
+msgstr ""
+
+#: bp-translate-pomo.php:645
+#@ bp_translate
+msgid "Creation-Date"
+msgstr ""
+
+#: bp-translate-pomo.php:649
+#@ bp_translate
+msgid "Last-Translator"
+msgstr ""
+
+#: bp-translate-pomo.php:684
+#@ bp_translate
+msgid "create po-file"
+msgstr ""
+
+#: bp-translate-pomo.php:695
+#, php-format
+#@ bp_translate
+msgid "You are about to delete <strong>%s</strong> from \"<strong>%s</strong>\" permanently.<br/>Are you sure you wish to delete these files?"
+msgstr ""
+
+#: bp-translate-pomo.php:696
+#@ bp_translate
+msgid "delete files"
+msgstr ""
+
+#: bp-translate-pomo.php:739
+#@ bp_translate
+msgid "Language Target"
+msgstr ""
+
+#: bp-translate-pomo.php:744
+#@ bp_translate
+msgid "Affected Total Files"
+msgstr ""
+
+#: bp-translate-pomo.php:749
+#@ bp_translate
+msgid "Scanning Progress"
+msgstr ""
+
+#: bp-translate-pomo.php:757
+#@ bp_translate
+msgid "scan now"
+msgstr ""
+
+#: bp-translate-pomo.php:757
+#@ bp_translate
+msgid "Please standby, files presently being scanned ..."
+msgstr ""
+
+#: bp-translate-pomo.php:872
+#, php-format
+#@ bp_translate
+msgid "You do not have the permission to create the file '%s'."
+msgstr ""
+
+#: bp-translate-pomo.php:880
+#: bp-translate-pomo.php:913
+#: bp-translate-pomo.php:1327
+#, php-format
+#@ bp_translate
+msgid "<strong>%d</strong> Language"
+msgid_plural "<strong>%d</strong> Languages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: bp-translate-pomo.php:900
+#: bp-translate-pomo.php:901
+#, php-format
+#@ bp_translate
+msgid "You do not have the permission to delete the file '%s'."
+msgstr ""
+
+#: bp-translate-pomo.php:950
+#: bp-translate-pomo.php:1048
+#: bp-translate-pomo.php:1109
+#, php-format
+#@ bp_translate
+msgid "You do not have the permission to write the file '%s'."
+msgstr ""
+
+#: bp-translate-pomo.php:956
+#: bp-translate-pomo.php:1061
+#: bp-translate-pomo.php:1076
+#, php-format
+#@ bp_translate
+msgid "You do not have the permission to read the file '%s'."
+msgstr ""
+
+#: bp-translate-pomo.php:973
+#@ bp_translate
+msgid "Server Restrictions: Changing file rights is not permitted."
+msgstr ""
+
+#: bp-translate-pomo.php:976
+#, php-format
+#@ bp_translate
+msgid "You do not have the permission to modify the file rights for a not existing file '%s'."
+msgstr ""
+
+#: bp-translate-pomo.php:1009
+#@ bp_translate
+msgid "Your translation file doesn't support the required textdomain extension.<br/>Please re-scan the related source files to enable this feature."
+msgstr ""
+
+#: bp-translate-pomo.php:1031
+#@ bp_translate
+msgid "Sorry, Google Translation is not available."
+msgstr ""
+
+#: bp-translate-pomo.php:1129
+#@ bp_translate
+msgid "You do not have the permission to create the WordPress Language File Path.<br/>Please create the appropriated path using you FTP access."
+msgstr ""
+
+#: bp-translate-pomo.php:1149
+#@ bp_translate
+msgid "You do not have the permission to choose the translation file directory<br/>Please upload at least one language file (*.mo|*.po) or an empty template file (*.pot) at the appropriated folder using FTP."
+msgstr ""
+
+#: bp-translate-pomo.php:1218
+#@ bp_translate
+msgid "Manage Language Files"
+msgstr ""
+
+#: bp-translate-pomo.php:1221
+#@ bp_translate
+msgid "All Translations"
+msgstr ""
+
+#: bp-translate-pomo.php:1228
+#@ bp_translate
+msgid "μ Plugins"
+msgstr ""
+
+#: bp-translate-pomo.php:1232
+#@ bp_translate
+msgid "Plugins"
+msgstr ""
+
+#: bp-translate-pomo.php:1235
+#@ bp_translate
+msgid "Themes"
+msgstr ""
+
+#: bp-translate-pomo.php:1241
+#@ bp_translate
+msgid "Type"
+msgstr ""
+
+#: bp-translate-pomo.php:1242
+#: bp-translate-pomo.php:1269
+#: bp-translate-pomo.php:1291
+#@ bp_translate
+msgid "Description"
+msgstr ""
+
+#: bp-translate-pomo.php:1254
+#@ bp_translate
+msgid "Textdomain"
+msgstr ""
+
+#: bp-translate-pomo.php:1255
+#@ bp_translate
+msgid "defined by constant"
+msgstr ""
+
+#: bp-translate-pomo.php:1261
+#: bp-translate-pomo.php:1283
+#@ bp_translate
+msgid "Version"
+msgstr ""
+
+#: bp-translate-pomo.php:1265
+#: bp-translate-pomo.php:1287
+#@ bp_translate
+msgid "State"
+msgstr ""
+
+#: bp-translate-pomo.php:1274
+#@ bp_translate
+msgid "<strong>ATTENTION</strong>: The path of translation files is ambiguous, please select the language file folder!"
+msgstr ""
+
+#: bp-translate-pomo.php:1280
+#@ bp_translate
+msgid "by"
+msgstr ""
+
+#: bp-translate-pomo.php:1300
+#@ bp_translate
+msgid "The original US version doesn't contain the language directory."
+msgstr ""
+
+#: bp-translate-pomo.php:1302
+#@ bp_translate
+msgid "try to create the WordPress language directory"
+msgstr ""
+
+#: bp-translate-pomo.php:1305
+#@ bp_translate
+msgid "or create the missing directory using FTP Access as:"
+msgstr ""
+
+#: bp-translate-pomo.php:1310
+#@ bp_translate
+msgid "Available Directories:"
+msgstr ""
+
+#: bp-translate-pomo.php:1325
+#: bp-translate-pomo.php:1541
+#@ bp_translate
+msgid "Add New Language"
+msgstr ""
+
+#: bp-translate-pomo.php:1331
+#@ bp_translate
+msgid "Permissions"
+msgstr ""
+
+#: bp-translate-pomo.php:1332
+#: bp-translate-pomo.php:1460
+#@ bp_translate
+msgid "Actions"
+msgstr ""
+
+#: bp-translate-pomo.php:1346
+#: bp-translate-pomo.php:1351
+#: bp-translate-pomo.php:1584
+#@ bp_translate
+msgid "-n.a.-"
+msgstr ""
+
+#: bp-translate-pomo.php:1358
+#: bp-translate-pomo.php:1590
+#@ bp_translate
+msgid "Rescan"
+msgstr ""
+
+#: bp-translate-pomo.php:1374
+#@ bp_translate
+msgid "Translate Language File"
+msgstr ""
+
+#: bp-translate-pomo.php:1374
+#@ bp_translate
+msgid "back to main page &raquo;"
+msgstr ""
+
+#: bp-translate-pomo.php:1376
+#: bp-translate-pomo.php:1746
+#: bp-translate-pomo.php:2376
+#@ bp_translate
+msgid "File:"
+msgstr ""
+
+#: bp-translate-pomo.php:1381
+#@ bp_translate
+msgid "<b>Hint:</b> The extended feature for textdomain separation shows at dropdown box <i>Textdomain</i> the pre-selected primary textdomain."
+msgstr ""
+
+#: bp-translate-pomo.php:1382
+#@ bp_translate
+msgid "All other additional contained textdomains occur at the source but will not be used, if not explicitely supported by this component!"
+msgstr ""
+
+#: bp-translate-pomo.php:1383
+#@ bp_translate
+msgid "Please contact the author, if some of the non primary textdomain based phrases will not show up translated at the required position!"
+msgstr ""
+
+#: bp-translate-pomo.php:1384
+#@ bp_translate
+msgid "The Textdomain <i><b>default</b></i> always stands for the WordPress main language file, this could be either intentionally or accidentally!"
+msgstr ""
+
+#: bp-translate-pomo.php:1387
+#@ bp_translate
+msgid "Textdomain:"
+msgstr ""
+
+#: bp-translate-pomo.php:1388
+#@ bp_translate
+msgid "generate mo-file"
+msgstr ""
+
+#: bp-translate-pomo.php:1389
+#@ bp_translate
+msgid "last written:"
+msgstr ""
+
+#: bp-translate-pomo.php:1393
+#@ bp_translate
+msgid "Total"
+msgstr ""
+
+#: bp-translate-pomo.php:1394
+#@ bp_translate
+msgid "Plural"
+msgstr ""
+
+#: bp-translate-pomo.php:1395
+#: bp-translate-pomo.php:1951
+#@ bp_translate
+msgid "Context"
+msgstr ""
+
+#: bp-translate-pomo.php:1396
+#@ bp_translate
+msgid "Not translated"
+msgstr ""
+
+#: bp-translate-pomo.php:1397
+#@ bp_translate
+msgid "Comments"
+msgstr ""
+
+#: bp-translate-pomo.php:1398
+#: bp-translate-pomo.php:1933
+#@ bp_translate
+msgid "Code Hint"
+msgstr ""
+
+#: bp-translate-pomo.php:1399
+#@ bp_translate
+msgid "Search Result"
+msgstr ""
+
+#: bp-translate-pomo.php:1400
+#@ bp_translate
+msgid "Expression Result"
+msgstr ""
+
+#: bp-translate-pomo.php:1404
+#@ bp_translate
+msgid "Page Size"
+msgstr ""
+
+#: bp-translate-pomo.php:1416
+#: bp-translate-pomo.php:1470
+#: bp-translate-pomo.php:1915
+#@ bp_translate
+msgid "&laquo; Previous"
+msgstr ""
+
+#: bp-translate-pomo.php:1421
+#: bp-translate-pomo.php:1475
+#: bp-translate-pomo.php:1922
+#@ bp_translate
+msgid "Next &raquo;"
+msgstr ""
+
+#: bp-translate-pomo.php:1429
+#@ bp_translate
+msgid "Infos"
+msgstr ""
+
+#: bp-translate-pomo.php:1433
+#: bp-translate-pomo.php:2334
+#@ bp_translate
+msgid "Original:"
+msgstr ""
+
+#: bp-translate-pomo.php:1437
+#: bp-translate-pomo.php:1452
+#@ bp_translate
+msgid "non case-sensitive"
+msgstr ""
+
+#: bp-translate-pomo.php:1448
+#: bp-translate-pomo.php:2337
+#: bp-translate-pomo.php:2339
+#@ bp_translate
+msgid "Translation:"
+msgstr ""
+
+#: bp-translate-pomo.php:1464
+#@ bp_translate
+msgid "Please wait, file content presently being loaded ..."
+msgstr ""
+
+#: bp-translate-pomo.php:1468
+#@ bp_translate
+msgid "scroll to top"
+msgstr ""
+
+#: bp-translate-pomo.php:1485
+#: bp-translate-pomo.php:2291
+#@ bp_translate
+msgid "Edit Catalog Entry"
+msgstr ""
+
+#: bp-translate-pomo.php:1486
+#@ bp_translate
+msgid "close"
+msgstr ""
+
+#: bp-translate-pomo.php:1627
+#@ bp_translate
+msgid "Confirm Delete Language"
+msgstr ""
+
+#: bp-translate-pomo.php:1695
+#@ bp_translate
+msgid "Rescanning PHP Source Files"
+msgstr ""
+
+#: bp-translate-pomo.php:1721
+#: bp-translate-pomo.php:1751
+#@ bp_translate
+msgid "finished"
+msgstr ""
+
+#: bp-translate-pomo.php:1847
+#@ bp_translate
+msgid "Access Error"
+msgstr ""
+
+#: bp-translate-pomo.php:1932
+#@ bp_translate
+msgid "Comment"
+msgstr ""
+
+#: bp-translate-pomo.php:1941
+#@ bp_translate
+msgid "Files:"
+msgstr ""
+
+#: bp-translate-pomo.php:1955
+#: bp-translate-pomo.php:2320
+#@ bp_translate
+msgid "Singular:"
+msgstr ""
+
+#: bp-translate-pomo.php:1955
+#: bp-translate-pomo.php:2322
+#@ bp_translate
+msgid "Plural:"
+msgstr ""
+
+#: bp-translate-pomo.php:1959
+#: bp-translate-pomo.php:1962
+#: bp-translate-pomo.php:2298
+#: bp-translate-pomo.php:2301
+#: bp-translate-pomo.php:2304
+#: bp-translate-pomo.php:2309
+#@ bp_translate
+msgid "Plural Index Result ="
+msgstr ""
+
+#: bp-translate-pomo.php:1975
+#@ bp_translate
+msgid "Copy"
+msgstr ""
+
+#: bp-translate-pomo.php:2105
+#@ bp_translate
+msgid "Extended Expression Search"
+msgstr ""
+
+#: bp-translate-pomo.php:2107
+#@ bp_translate
+msgid "Expression:"
+msgstr ""
+
+#: bp-translate-pomo.php:2109
+#@ bp_translate
+msgid "Examples: <small>Please refer to official Perl regular expression descriptions</small>"
+msgstr ""
+
+#: bp-translate-pomo.php:2114
+#@ bp_translate
+msgid "Search"
+msgstr ""
+
+#: bp-translate-pomo.php:2298
+#: bp-translate-pomo.php:2301
+#: bp-translate-pomo.php:2339
+#@ bp_translate
+msgid "translate with Google API"
+msgstr ""
+
+#: bp-translate-pomo.php:2324
+#@ bp_translate
+msgid "Plural Index Calculation:"
+msgstr ""
+
+#: bp-translate-pomo.php:2327
+#: bp-translate-pomo.php:2343
+#@ bp_translate
+msgid "« Save & Previous"
+msgstr ""
+
+#: bp-translate-pomo.php:2328
+#: bp-translate-pomo.php:2344
+#@ bp_translate
+msgid "Save"
+msgstr ""
+
+#: bp-translate-pomo.php:2329
+#: bp-translate-pomo.php:2345
+#@ bp_translate
+msgid "Save & Next »"
+msgstr ""
+
+#: bp-translate-settings.php:44
+#@ buddypress
+msgid "Changes Saved."
+msgstr ""
+
+#: bp-translate-settings.php:54
+#@ bp_translate
+msgid "Language Settings"
+msgstr ""
+
+#: bp-translate-settings.php:97
+#@ buddypress
+msgid "Select"
+msgstr ""
+
+#: bp-translate-settings.php:101
+#@ buddypress
+msgid "Your native language"
+msgstr ""
+
+#: bp-translate-settings.php:109
+#@ buddypress
+msgid "Administration language"
+msgstr ""
+
+#: bp-translate-settings.php:120
+#@ buddypress
+msgid "Yes"
+msgstr ""
+
+#: bp-translate-settings.php:121
+#@ buddypress
+msgid "No"
+msgstr ""
+
+#: bp-translate-settings.php:125
+#@ buddypress
+msgid "Automatically translate LOGOI website content"
+msgstr ""
+
+#: bp-translate-settings.php:131
+#@ buddypress
+msgid "Automatically translate user content"
+msgstr ""
+
+#: bp-translate-settings.php:137
+#@ buddypress
+msgid "Allow my content to be translated by others"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:287
+#@ bp_translate
+msgid "BP Translate Services Settings"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:290
+#: deprecated/bp_translate_services.php:555
+#: deprecated/bp_translate_services.php:565
+#: deprecated/bp_translate_services.php:589
+#@ bp_translate
+msgid "BP Translate Services"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:292
+#, php-format
+msgid "<div id=\"message\" class=\"error fade\"><p>BP Translate Services could not load <a href=\"%s\">OpenSSL</a>!</p></div>"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:293
+#@ bp_translate
+msgid "Enable BP Translate Services"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:295
+#@ bp_translate
+msgid "With BP Translate Services, you will be able to use professional human translation services with a few clicks. (Requires OpenSSL)"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:347
+#, php-format
+#@ bp_translate
+msgid "BP Translate Services will automatically check every hour whether the translations are finished and update your posts accordingly. You can always <a href=\"%s\">check manually</a>."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:357
+#@ bp_translate
+msgid "Below, you will find configuration settings for BP Translate Service Providers, which are required for them to operate."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:557
+#, php-format
+#@ bp_translate
+msgid "An serious error occured and BP Translate Services cannot proceed. For help, please visit the <a href=\"%s\">Support Forum</a>"
+msgstr ""
+
+#: deprecated/bp_translate_services.php:580
+#@ bp_translate
+msgid "Let BP Translate Services check if any open orders are finished."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:637
+#@ bp_translate
+msgid "ERROR: Could not connect to BP Translate Services. Please try again later."
+msgstr ""
+
+#: deprecated/bp_translate_services.php:669
+#@ bp_translate
+msgid "Your article will be SSL encrypted and securly sent to BP Translate Services, which will forward your text to the chosen Translation Service. Once BP Translate Services receives the translated text, it will automatically appear on your blog."
+msgstr ""
+
+#: js/js-help-perlreg.php:4
+#@ bp_translate
+msgid "Component|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:5
+#@ bp_translate
+msgid "Example|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:6
+#@ bp_translate
+msgid "Description|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:12
+#: js/js-help-perlreg.php:17
+#: js/js-help-perlreg.php:22
+#: js/js-help-perlreg.php:27
+#: js/js-help-perlreg.php:32
+#: js/js-help-perlreg.php:37
+#: js/js-help-perlreg.php:42
+#: js/js-help-perlreg.php:47
+#: js/js-help-perlreg.php:52
+#: js/js-help-perlreg.php:112
+#: js/js-help-perlreg.php:117
+#: js/js-help-perlreg.php:122
+#: js/js-help-perlreg.php:127
+#@ bp_translate
+msgid "out|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:13
+#@ bp_translate
+msgid "matches \"out\", but also \"timeout\", \"outbreak\", \"Route\" and \"gouty\".|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:18
+#@ bp_translate
+msgid "matches \"out\" at start of string like \"out\", \"outbreak\", as long as this are the first words at string.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:23
+#@ bp_translate
+msgid "matches \"out\" at end of string like \"out\", \"timeout\" and \"burnout\" as long as this are the last words at string.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:28
+#@ bp_translate
+msgid "matches \"ou\", \"out\", \"outt\" and \"outttttt\", the char prior to asterisk can be repeated 0 to unlimited times.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:33
+#@ bp_translate
+msgid "matches \"outt\" and \"outttt\", the char prior to plus char have to be repeated at least one time or more often.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:38
+#@ bp_translate
+msgid "matches \"rout\" and \"gout\", any char can be placed at this position.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:43
+#@ bp_translate
+msgid "matches \"timeout\" and \"Fallout\", any char sequence at this position. Is a combination of any char and 1 but upto many times.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:48
+#@ bp_translate
+msgid "matches \"out\" as single word. \\b means word break.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:53
+#@ bp_translate
+msgid "matches \"out\" only inside words, like \"Route\" or \"gouty\". \\B means not word break.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:58
+#@ bp_translate
+msgid "matches any number. \\d means a numerical digit (0 to 9)|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:63
+#@ bp_translate
+msgid "matches \"-out\" at \"3-out\", any non number.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:68
+#@ bp_translate
+msgid "matches form feed char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:73
+#@ bp_translate
+msgid "matches line feed char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:78
+#@ bp_translate
+msgid "matches carriage return char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:83
+#@ bp_translate
+msgid "matches tabulator char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:88
+#@ bp_translate
+msgid "matches vertical tabulator char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:93
+#@ bp_translate
+msgid "matches any kind of whitespace and space char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:98
+#@ bp_translate
+msgid "matches any char, that is not a whitespace char.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:103
+#@ bp_translate
+msgid "matches any alphanumerical char and underscore (typical for programming syntax).|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:108
+#@ bp_translate
+msgid "matches any char, that is not alphanumerical char and underscore (typical for illegal char detection at programming).|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:113
+#@ bp_translate
+msgid "matches \"out\" and remembers matches internally. Upto 9 brackets are allowed per expression.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:118
+#@ bp_translate
+msgid "matches \"aus\" as often it is contained at string. The match positions will be stored internally as array.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:123
+#@ bp_translate
+msgid "matches \"out\", \"Out\" and \"OUT\", not case-sensitive match.|pcre"
+msgstr ""
+
+#: js/js-help-perlreg.php:128
+#@ bp_translate
+msgid "matches \"out\", as ofter occurs (g) and also non case-sensitive.|pcre"
+msgstr ""
+
